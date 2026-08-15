@@ -1,0 +1,1304 @@
+Company,TypeName,Inches,Gpu,OpSys,Price_euros,Ram_GB,Weight_kg,SSD_GB,HDD_GB,Total_Storage_GB,Is_IPS,Is_Touchscreen,Screen_Width,Screen_Height,Res_Class,PPI,CPU_Brand,CPU_GHz,GPU_Brand
+Apple,Ultrabook,13.3,Intel Iris Plus Graphics 640,macOS,1339.69,8,1.37,128,0,128,True,False,2560,1600,QHD,226.98300468106115,Intel,2.3,Intel
+Apple,Ultrabook,13.3,Intel HD Graphics 6000,macOS,898.94,8,1.34,128,0,128,False,False,1440,900,HD,127.67794013309688,Intel,1.8,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,No OS,575.0,8,1.86,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Apple,Ultrabook,15.4,AMD Radeon Pro 455,macOS,2537.45,16,1.83,512,0,512,True,False,2880,1800,QHD,220.53462386625827,Intel,2.7,AMD
+Apple,Ultrabook,13.3,Intel Iris Plus Graphics 650,macOS,1803.6,8,1.37,256,0,256,True,False,2560,1600,QHD,226.98300468106115,Intel,3.1,Intel
+Acer,Notebook,15.6,AMD Radeon R5,Windows 10,400.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,3.0,AMD
+Apple,Ultrabook,15.4,Intel Iris Pro Graphics,Mac OS X,2139.97,16,2.04,256,0,256,True,False,2880,1800,QHD,220.53462386625827,Intel,2.2,Intel
+Apple,Ultrabook,13.3,Intel HD Graphics 6000,macOS,1158.7,8,1.34,256,0,256,False,False,1440,900,HD,127.67794013309688,Intel,1.8,Intel
+Asus,Ultrabook,14.0,Nvidia GeForce MX150,Windows 10,1495.0,16,1.3,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,1.8,Nvidia
+Acer,Ultrabook,14.0,Intel UHD Graphics 620,Windows 10,770.0,8,1.6,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,1.6,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,No OS,393.9,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,No OS,344.99,4,1.86,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Apple,Ultrabook,15.4,AMD Radeon Pro 555,macOS,2439.97,16,1.83,256,0,256,True,False,2880,1800,QHD,220.53462386625827,Intel,2.8,AMD
+Dell,Notebook,15.6,AMD Radeon R5 M430,Windows 10,498.9,4,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,AMD
+Apple,Ultrabook,12.0,Intel HD Graphics 615,macOS,1262.4,8,0.92,256,0,256,True,False,2304,1440,FHD,226.41554716935852,Intel,1.2,Intel
+Apple,Ultrabook,13.3,Intel Iris Plus Graphics 640,macOS,1518.55,8,1.37,256,0,256,True,False,2560,1600,QHD,226.98300468106115,Intel,2.3,Intel
+Dell,Notebook,15.6,AMD Radeon R5 M430,Windows 10,745.0,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+Apple,Ultrabook,15.4,AMD Radeon Pro 560,macOS,2858.0,16,1.83,512,0,512,True,False,2880,1800,QHD,220.53462386625827,Intel,2.9,AMD
+Lenovo,Notebook,15.6,Nvidia GeForce 940MX,No OS,499.0,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Nvidia
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,979.0,8,1.22,128,0,128,True,True,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+Asus,Netbook,11.6,Intel HD Graphics 400,Windows 10,191.9,2,0.98,32,0,32,False,False,1366,768,HD,135.0942111925629,Intel,1.44,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,999.0,8,2.5,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Notebook,15.6,AMD Radeon R2,No OS,258.0,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,1.5,AMD
+Dell,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,819.0,8,1.62,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+HP,Ultrabook,15.6,Intel HD Graphics 620,Windows 10,659.0,8,1.91,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Intel
+Dell,Notebook,15.6,Intel HD Graphics 520,Windows 10,418.64,4,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Apple,Ultrabook,13.3,Intel HD Graphics 6000,Mac OS X,1099.0,8,1.35,128,0,128,False,False,1440,900,HD,127.67794013309688,Intel,1.6,Intel
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,800.0,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Dell,Ultrabook,15.6,Intel UHD Graphics 620,Windows 10,1298.0,8,1.88,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,1.9,Intel
+HP,Notebook,17.3,Nvidia GeForce 930MX,Windows 10,896.0,8,2.5,0,1024,1024,False,False,1920,1080,FHD,127.33567457123111,Intel,1.6,Nvidia
+Chuwi,Notebook,15.6,Intel HD Graphics,Windows 10,244.99,4,1.89,64,0,64,False,False,1920,1080,FHD,141.21199808219862,Intel,1.44,Intel
+Asus,Notebook,14.0,AMD Radeon R2,Windows 10,199.0,2,1.65,32,0,32,False,False,1366,768,HD,111.93520355955211,AMD,1.5,AMD
+HP,Notebook,17.3,AMD Radeon 530,Windows 10,439.0,4,2.71,0,500,500,False,False,1920,1080,FHD,127.33567457123111,AMD,2.5,AMD
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1869.0,16,1.2,512,0,512,False,True,3200,1800,QHD,276.053530085501,Intel,1.8,Intel
+Apple,Ultrabook,13.3,Intel HD Graphics 6000,Mac OS X,998.0,8,1.35,256,0,256,False,False,1440,900,HD,127.67794013309688,Intel,1.6,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 500,Windows 10,249.0,4,1.44,64,0,64,False,False,1366,768,HD,111.93520355955211,Intel,1.1,Intel
+Acer,Notebook,15.6,Intel HD Graphics 620,Linux,367.0,4,2.1,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.7,Intel
+Dell,Notebook,17.3,AMD Radeon 530,Windows 10,979.0,8,2.8,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,1.6,AMD
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,488.69,4,1.86,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+HP,Notebook,15.6,Nvidia GeForce 930MX ,Windows 10,879.0,8,2.1,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Nvidia
+Asus,Notebook,15.6,Intel HD Graphics 620,Linux,389.0,4,2.0,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1499.0,16,2.65,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Asus,Notebook,15.6,Nvidia GeForce 940MX,Linux,522.99,8,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Nvidia
+Acer,Notebook,15.6,Intel UHD Graphics 620,Windows 10,682.0,4,2.2,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Intel
+Dell,2 in 1 Convertible,17.3,Nvidia GeForce 150MX,Windows 10,999.0,12,2.77,0,1024,1024,False,True,1920,1080,FHD,127.33567457123111,Intel,1.6,Nvidia
+Apple,Ultrabook,13.3,Intel Iris Graphics 540,macOS,1419.0,8,1.37,256,0,256,True,False,2560,1600,QHD,226.98300468106115,Intel,2.0,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,No OS,369.0,4,2.2,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Asus,Gaming,17.3,AMD Radeon RX 580,Windows 10,1299.0,8,3.2,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,AMD,3.0,AMD
+Dell,Notebook,15.6,AMD Radeon R5 M430,Windows 10,639.0,4,2.3,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+Asus,Notebook,17.3,Nvidia GeForce 920MX,Windows 10,466.0,4,2.8,0,1024,1024,False,False,1366,768,HD,90.58340172449303,Intel,1.1,Nvidia
+Lenovo,2 in 1 Convertible,10.1,Intel HD Graphics 400,Android,319.0,4,0.69,64,0,64,True,True,1920,1200,FHD,224.17380907857276,Intel,1.44,Intel
+Acer,Notebook,15.6,Nvidia GeForce MX150,Windows 10,841.0,8,2.2,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+HP,Notebook,15.6,AMD Radeon R4 Graphics,Windows 10,398.49,4,1.86,256,0,256,False,False,1920,1080,FHD,141.21199808219862,AMD,2.5,AMD
+HP,Notebook,13.3,Intel UHD Graphics 620,Windows 10,1103.0,8,1.49,512,0,512,False,False,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+Acer,Notebook,15.6,Intel HD Graphics 620,Windows 10,384.0,4,2.4,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Dell,Notebook,15.6,AMD Radeon 520,Windows 10,767.8,8,2.13,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,439.0,4,1.91,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Asus,Notebook,15.6,Intel HD Graphics 620,Windows 10,586.19,4,2.0,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2449.0,16,2.43,256,2048,2304,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Asus,Notebook,15.6,Intel HD Graphics 520,Linux,415.0,4,2.0,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Dell,Notebook,17.3,AMD Radeon 530,Windows 10,1299.0,16,2.8,256,2048,2304,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,AMD
+Dell,Ultrabook,14.0,Intel UHD Graphics 620,Windows 10,879.0,8,1.7,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,1.6,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 620,No OS,599.0,8,1.7,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Asus,Notebook,14.0,Intel UHD Graphics 620,Windows 10,941.0,8,1.4,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,1.6,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,690.0,8,1.86,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Ultrabook,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1983.0,16,1.8,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,15.6,AMD Radeon 520,Windows 10,438.69,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,AMD
+HP,Notebook,14.0,Intel HD Graphics 400,Windows 10,229.0,4,1.44,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,549.0,4,1.9,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050 Ti,Linux,949.0,12,3.0,0,1024,1024,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Microsoft,Ultrabook,13.5,Intel HD Graphics 620,Windows 10 S,1089.0,4,1.252,128,0,128,False,True,2256,1504,FHD,200.84255993695703,Intel,2.5,Intel
+Dell,Ultrabook,13.3,AMD Radeon 530,Windows 10,955.0,8,1.4,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,1.8,AMD
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,870.0,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+MSI,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1095.0,8,2.7,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.5,Nvidia
+Acer,Notebook,14.0,Intel HD Graphics 520,Windows 10,389.0,8,2.1,0,1024,1024,False,False,1366,768,HD,111.93520355955211,Intel,2.0,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,949.0,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 620,No OS,519.0,8,2.2,0,2048,2048,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Dell,Notebook,15.6,Intel UHD Graphics 620,Windows 10,855.0,8,2.02,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Intel
+Acer,Notebook,15.6,Nvidia GeForce MX130,Windows 10,530.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+HP,Notebook,17.3,Nvidia GeForce 930MX,Windows 10,977.0,8,2.5,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,1.6,Nvidia
+Dell,Ultrabook,15.6,Intel UHD Graphics 620,Windows 10,1096.16,8,1.88,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Intel
+Apple,Ultrabook,12.0,Intel HD Graphics 615,macOS,1510.0,8,0.92,512,0,512,True,False,2304,1440,FHD,226.41554716935852,Intel,1.3,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,860.0,8,1.63,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,1.6,Intel
+Lenovo,Notebook,15.6,AMD R4 Graphics,Windows 10,399.0,4,2.2,128,0,128,False,False,1920,1080,FHD,141.21199808219862,AMD,2.5,AMD
+Acer,Notebook,15.6,AMD Radeon R5,Windows 10,395.0,4,2.1,0,1024,1024,False,False,1366,768,HD,100.45466986113651,AMD,3.0,AMD
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1349.0,16,2.65,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Ultrabook,15.6,Nvidia GeForce GTX 940MX,Windows 10,699.0,8,1.83,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,598.99,8,1.96,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1449.0,16,2.2,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1649.0,8,1.21,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+Asus,Gaming,15.6,AMD Radeon RX 560,Windows 10,699.0,8,2.45,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,AMD,3.0,AMD
+Acer,Notebook,15.6,Nvidia GeForce MX150,Windows 10,689.0,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+HP,Notebook,13.3,Intel UHD Graphics 620,Windows 10,1197.0,16,1.49,512,0,512,False,False,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1195.0,8,2.65,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Asus,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1049.0,8,1.25,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Acer,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,847.0,8,1.5,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+Dell,Notebook,15.6,AMD Radeon R5 M430,Linux,599.9,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+Dell,Notebook,15.6,AMD Radeon R5 M430,Linux,485.0,4,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,AMD
+Asus,Notebook,15.6,Nvidia GeForce 920M,Windows 10,577.0,6,2.0,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Nvidia
+HP,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1249.0,12,2.62,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,15.6,AMD Radeon 530,Windows 10,719.0,8,1.91,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+HP,Notebook,15.6,AMD Radeon R2,Windows 10,349.0,4,2.1,0,500,500,False,False,1920,1080,FHD,141.21199808219862,AMD,1.5,AMD
+Dell,Notebook,15.6,AMD Radeon 520,Linux,647.0,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+HP,Ultrabook,13.3,Nvidia GeForce MX150,Windows 10,1119.0,8,1.38,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.7,Nvidia
+Microsoft,Ultrabook,13.5,Intel HD Graphics 620,Windows 10 S,1340.0,8,1.252,256,0,256,False,True,2256,1504,FHD,200.84255993695703,Intel,2.5,Intel
+HP,Notebook,14.0,Nvidia GeForce 940MX,Windows 10,659.0,6,1.58,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,414.9,4,1.85,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Asus,Ultrabook,14.0,Nvidia GeForce 940MX,Windows 10,1193.0,8,1.3,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Nvidia
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1299.0,16,2.2,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,14.0,Intel HD Graphics 620,Windows 10,1480.0,8,1.58,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Asus,Ultrabook,15.6,Nvidia GeForce MX150,Windows 10,1262.0,16,1.5,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+Dell,Ultrabook,13.3,Intel Iris Plus Graphics 640,Windows 10,1379.0,8,1.23,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,2.4,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1399.0,8,1.37,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+HP,Notebook,14.0,Intel UHD Graphics 620,Windows 10,722.0,4,1.63,0,500,500,True,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1629.0,8,1.21,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+HP,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,1398.99,8,1.26,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+HP,Notebook,14.0,Intel UHD Graphics 620,Windows 10,1084.0,8,1.63,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,1.8,Intel
+Dell,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,1130.33,8,2.16,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+Asus,Notebook,17.3,Nvidia GeForce 920MX,Windows 10,564.0,4,2.0,0,1024,1024,False,False,1920,1080,FHD,127.33567457123111,Intel,2.0,Nvidia
+Asus,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,1118.0,8,1.7,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 620,Windows 10,479.0,6,2.1,0,1024,1024,True,True,1920,1080,FHD,141.21199808219862,Intel,2.4,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1070,Windows 10,2241.5,16,1.8,256,2048,2304,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Nvidia GeForce 940MX,No OS,629.0,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Notebook,17.3,Nvidia GeForce 930MX ,Windows 10,1271.0,16,2.5,512,0,512,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,Nvidia
+Acer,Notebook,15.6,AMD Radeon R5,Windows 10,451.0,4,2.1,256,0,256,False,False,1366,768,HD,100.45466986113651,AMD,3.0,AMD
+HP,Notebook,15.6,Intel HD Graphics 400,No OS,259.0,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+HP,Notebook,14.0,Intel UHD Graphics 620,Windows 10,812.0,8,1.63,0,1024,1024,False,False,1920,1080,FHD,157.3505121487356,Intel,1.6,Intel
+Asus,Notebook,14.0,AMD Radeon R2,Windows 10 S,277.99,4,1.65,64,0,64,False,False,1366,768,HD,111.93520355955211,AMD,1.5,AMD
+Dell,Notebook,17.3,AMD Radeon 530,Windows 10,1396.0,16,2.8,256,2048,2304,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,AMD
+HP,Notebook,17.3,Intel UHD Graphics 620,Windows 10,928.0,8,2.5,256,0,256,False,False,1920,1080,FHD,127.33567457123111,Intel,1.6,Intel
+Dell,Notebook,15.6,AMD Radeon R7 M445,Windows 10,638.99,8,2.36,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+Dell,Notebook,15.6,AMD Radeon R5 M430,Windows 10,449.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,AMD
+Acer,Ultrabook,14.0,Intel UHD Graphics 620,Windows 10,884.0,8,1.6,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,1.8,Intel
+Acer,Notebook,15.6,Nvidia GeForce MX130,Windows 10,572.0,4,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,598.0,8,2.05,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.7,Intel
+HP,Notebook,14.0,Intel UHD Graphics 620,Windows 10,988.0,8,1.63,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,1.8,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 500,No OS,252.36,4,1.9,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,938.0,8,3.0,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.5,Nvidia
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX,No OS,499.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Notebook,13.3,Intel HD Graphics 620,Windows 10,699.0,4,1.32,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Acer,Notebook,17.3,Nvidia GeForce MX130,Windows 10,655.0,4,3.0,0,1024,1024,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Lenovo,Notebook,14.0,AMD Radeon RX 550,Windows 10,1116.02,8,1.75,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,1.6,AMD
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050M,No OS,869.0,8,2.4,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Toshiba,Notebook,15.6,Intel HD Graphics 520,Windows 10,602.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+HP,Notebook,15.6,AMD Radeon R4 Graphics,Windows 10,369.0,4,1.86,256,0,256,False,False,1366,768,HD,100.45466986113651,AMD,2.5,AMD
+Asus,Ultrabook,14.0,Intel UHD Graphics 620,Windows 10,1099.0,8,1.25,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,1.8,Intel
+HP,Ultrabook,12.5,Intel HD Graphics 515,Windows 10,2014.0,8,0.97,512,0,512,True,True,3840,2160,4K,352.4651472131677,Intel,1.2,Intel
+Asus,Notebook,15.6,Intel HD Graphics 500,Windows 10,344.0,4,2.0,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,1.1,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2029.0,16,2.9,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 520,Windows 10,447.0,4,2.1,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1249.26,16,2.56,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,899.0,8,2.62,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,498.0,4,1.9,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1890.0,16,2.8,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+HP,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1082.0,4,1.48,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+HP,Notebook,15.6,AMD Radeon 520,Windows 10,619.0,6,1.91,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 620,Windows 10,629.0,4,1.74,256,0,256,True,True,1920,1080,FHD,157.3505121487356,Intel,2.4,Intel
+Asus,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1315.0,8,1.1,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+Dell,2 in 1 Convertible,15.6,Intel UHD Graphics 620,Windows 10,1049.0,8,1.56,256,0,256,False,True,1920,1080,FHD,141.21199808219862,Intel,1.8,Intel
+Toshiba,Notebook,15.6,Intel HD Graphics 520,Windows 10,447.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.2,Intel
+Asus,Notebook,15.6,AMD Radeon R5 M420,Windows 10,403.0,4,2.03,0,1024,1024,False,False,1366,768,HD,100.45466986113651,AMD,3.0,AMD
+Acer,Notebook,17.3,Nvidia GeForce MX150,Windows 10,805.0,4,3.0,256,0,256,True,False,1920,1080,FHD,127.33567457123111,Intel,1.6,Nvidia
+Dell,Notebook,15.6,AMD Radeon 520,Windows 10,728.0,8,2.13,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1079.0,16,2.5,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 500,Windows 10,348.0,4,2.1,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1799.0,16,2.4,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 505,Windows 10,363.51,4,2.1,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1060.49,8,2.56,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,Notebook,17.3,Nvidia GeForce MX150,Windows 10,854.0,8,3.0,256,0,256,True,False,1920,1080,FHD,127.33567457123111,Intel,1.6,Nvidia
+HP,Notebook,13.3,Intel UHD Graphics 620,Windows 10,754.0,4,1.49,0,500,500,True,False,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+Huawei,Ultrabook,13.0,Intel HD Graphics 620,Windows 10,1349.0,8,1.05,256,0,256,True,False,2160,1440,FHD,199.69207064108247,Intel,2.5,Intel
+HP,Notebook,17.3,AMD Radeon 520,Windows 10,699.0,6,2.71,0,2048,2048,True,False,1920,1080,FHD,127.33567457123111,Intel,2.5,AMD
+Lenovo,Notebook,15.6,AMD Radeon R4 Graphics,No OS,309.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,2.9,AMD
+Toshiba,Notebook,15.6,Intel HD Graphics 620,Windows 10,489.0,4,2.0,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+HP,Notebook,17.3,Nvidia GeForce 930MX,Windows 10,923.0,8,2.5,256,0,256,False,False,1920,1080,FHD,127.33567457123111,Intel,1.6,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,459.0,8,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Acer,Notebook,15.6,Intel HD Graphics 520,Windows 10,449.0,4,2.1,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+MSI,Gaming,18.4,Nvidia GTX 980 SLI,Windows 10,2799.0,32,4.4,512,1024,1536,False,False,1920,1080,FHD,119.7232157653423,Intel,2.9,Nvidia
+Lenovo,Notebook,15.6,AMD R17M-M1-70,Windows 10,813.0,8,1.9,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+HP,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,1499.0,8,1.29,256,0,256,True,True,3840,2160,4K,331.2642361026012,Intel,1.6,Intel
+Dell,Notebook,15.6,AMD Radeon 530,Linux,1049.0,16,2.02,256,2048,2304,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1399.0,8,1.23,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+Lenovo,2 in 1 Convertible,13.9,Intel UHD Graphics 620,Windows 10,1849.0,16,1.4,512,0,512,True,True,3840,2160,4K,316.96506044349616,Intel,1.8,Intel
+Toshiba,Notebook,15.6,Intel HD Graphics 620,Windows 10,793.0,8,2.0,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Xiaomi,Notebook,15.6,Nvidia GeForce MX150,No OS,1199.0,8,1.95,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Nvidia
+Dell,Notebook,17.3,Nvidia GeForce 150MX,Windows 10,1549.0,16,2.77,512,0,512,False,True,1920,1080,FHD,127.33567457123111,Intel,1.8,Nvidia
+Dell,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,2397.0,16,2.06,512,0,512,False,True,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050,No OS,779.0,8,2.4,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Acer,Ultrabook,13.3,Intel HD Graphics 615,Windows 10,989.0,8,1.12,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,1.2,Intel
+Dell,Notebook,17.3,AMD Radeon 530,Windows 10,1085.0,8,2.8,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,AMD
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 620,Windows 10,2824.0,16,1.42,1024,0,1024,False,True,2560,1440,QHD,209.8006828649808,Intel,2.7,Intel
+Vero,Notebook,14.0,Intel HD Graphics 500,Windows 10,260.0,4,1.3,32,0,32,True,False,1920,1080,FHD,157.3505121487356,Intel,1.1,Intel
+Xiaomi,Ultrabook,13.3,Nvidia GeForce MX150,No OS,999.9,8,1.3,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Nvidia
+Lenovo,Notebook,17.3,Nvidia GeForce MX150,No OS,698.0,8,2.8,256,0,256,False,False,1600,900,HD,106.11306214269258,Intel,1.6,Nvidia
+Dell,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,839.0,8,1.62,0,1024,1024,True,True,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+HP,Notebook,17.3,Nvidia GeForce 930MX,Windows 10,914.0,8,2.5,0,1024,1024,True,False,1920,1080,FHD,127.33567457123111,Intel,1.6,Nvidia
+Razer,Gaming,17.3,Nvidia GeForce GTX 1080,Windows 10,6099.0,32,3.49,1024,0,1024,False,True,3840,2160,4K,254.67134914246222,Intel,2.9,Nvidia
+HP,Notebook,13.3,Intel UHD Graphics 620,Windows 10,959.0,8,1.49,512,0,512,False,False,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+HP,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1379.0,16,3.35,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+HP,Notebook,17.3,Nvidia GeForce 930MX ,Windows 10,1045.0,8,2.5,256,0,256,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,Nvidia
+Dell,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1845.0,16,2.65,512,1024,1536,True,False,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,493.0,4,2.1,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Acer,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,742.0,8,2.23,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1749.0,16,3.2,512,1024,1536,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Workstation,15.6,Nvidia Quadro M1200,Windows 10,3055.0,16,2.8,256,1024,1280,False,False,3840,2160,4K,282.42399616439724,Intel,3.0,Nvidia
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1060,No OS,1398.0,16,2.4,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,439.0,6,2.3,0,1024,1024,False,True,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1949.0,8,1.21,256,0,256,True,True,3840,2160,4K,331.2642361026012,Intel,1.8,Intel
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1449.0,8,1.2,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,597.0,8,2.2,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Acer,Notebook,15.6,Nvidia GeForce GTX 1050,Linux,779.0,8,2.4,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1407.0,16,2.9,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 520,No OS,349.0,4,2.1,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,No OS,549.0,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Huawei,Ultrabook,13.0,Intel HD Graphics 620,Windows 10,1499.0,8,1.05,512,0,512,True,False,2160,1440,FHD,199.69207064108247,Intel,2.7,Intel
+Dell,Ultrabook,13.3,AMD Radeon 530,Windows 10,931.88,8,1.4,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,1.8,AMD
+Lenovo,Notebook,17.3,Nvidia GeForce GTX 940MX,No OS,589.0,8,2.8,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.5,Nvidia
+HP,Notebook,14.0,Nvidia GeForce 930MX,Windows 10,1031.0,8,1.63,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,1.8,Nvidia
+Dell,Ultrabook,14.0,Intel UHD Graphics 620,Windows 10,1149.0,8,1.6,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,1.6,Intel
+Dell,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,1279.0,16,1.62,512,0,512,False,True,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+Dell,Notebook,15.6,AMD Radeon 520,Linux,677.35,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Lenovo,2 in 1 Convertible,14.0,Intel UHD Graphics 620,Windows 10,899.0,8,1.74,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,1.6,Intel
+Toshiba,Ultrabook,13.3,Intel HD Graphics 520,Windows 10,1363.0,8,1.2,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+HP,Notebook,15.6,Intel UHD Graphics 620,Windows 10,794.0,8,2.1,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,2456.34,16,4.42,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,832.0,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Notebook,15.6,AMD Radeon R7 M445,Windows 10,859.01,16,2.3,0,1024,1024,False,True,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+Asus,Notebook,15.6,Nvidia GeForce 920MX ,Windows 10,769.0,8,2.0,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Asus,Notebook,17.3,Nvidia GeForce GTX 950M,Windows 10,891.0,8,2.69,256,500,756,False,False,1920,1080,FHD,127.33567457123111,Intel,2.5,Nvidia
+HP,Notebook,15.6,AMD FirePro W4190M ,Windows 10,1269.0,8,1.9,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+Asus,Notebook,15.6,Intel HD Graphics 620,Windows 10,398.99,4,2.37,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+HP,Notebook,15.6,AMD Radeon R2,Windows 10,330.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,1.5,AMD
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1499.0,16,3.2,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,14.0,Intel HD Graphics 620,Windows 10,859.0,8,1.6,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Acer,2 in 1 Convertible,13.3,Intel HD Graphics 520,Windows 10,689.0,8,1.6,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.3,Intel
+Dell,Notebook,15.6,AMD Radeon R7 M445,Linux,899.0,16,2.36,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+Acer,Notebook,15.6,Intel HD Graphics 520,Linux,390.0,4,2.1,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Asus,Notebook,15.6,AMD Radeon R5 M430,Windows 10,575.0,4,2.2,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,AMD,2.5,AMD
+Asus,Gaming,17.3,Nvidia GeForce GTX 1080,Windows 10,3890.0,32,4.7,512,1024,1536,False,False,1920,1080,FHD,127.33567457123111,Intel,2.9,Nvidia
+Acer,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,846.0,8,2.5,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,589.0,8,2.2,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Asus,Notebook,17.3,Nvidia GeForce 150MX,Windows 10,1145.0,8,2.1,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,Nvidia
+Asus,Notebook,17.3,Nvidia GeForce GTX 950M,No OS,889.0,8,2.69,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,879.0,8,2.56,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,2 in 1 Convertible,13.9,Intel HD Graphics 620,Windows 10,1079.0,8,1.38,256,0,256,True,True,1920,1080,FHD,158.48253022174808,Intel,2.7,Intel
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,985.0,8,2.2,128,2048,2176,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,559.0,8,2.04,0,1024,1024,False,True,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1080,Windows 10,2999.0,16,3.6,256,0,256,False,False,1920,1080,FHD,127.33567457123111,Intel,2.9,Nvidia
+HP,Notebook,13.3,Intel UHD Graphics 620,Windows 10,675.0,4,1.49,0,500,500,True,False,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+Apple,Ultrabook,13.3,Intel Iris Plus Graphics 650,macOS,2040.0,8,1.37,512,0,512,True,False,2560,1600,QHD,226.98300468106115,Intel,3.1,Intel
+Dell,2 in 1 Convertible,15.6,Intel UHD Graphics 620,Windows 10,819.0,8,2.08,0,1024,1024,True,True,1920,1080,FHD,141.21199808219862,Intel,1.8,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,1799.0,16,4.3,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Asus,Notebook,15.6,AMD Radeon R5 M420,Windows 10,469.0,4,1.68,0,1024,1024,False,False,1366,768,HD,100.45466986113651,AMD,3.0,AMD
+Lenovo,2 in 1 Convertible,13.9,Intel UHD Graphics 620,Windows 10,1849.0,8,1.37,512,0,512,True,True,1920,1080,FHD,158.48253022174808,Intel,1.8,Intel
+Acer,Notebook,17.3,Nvidia GeForce MX130,Windows 10,702.0,4,3.0,256,0,256,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,949.0,8,1.41,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+HP,Notebook,15.6,AMD Radeon R4 Graphics,Windows 10,445.9,8,1.91,128,0,128,False,False,1366,768,HD,100.45466986113651,AMD,2.5,AMD
+HP,Notebook,17.3,Nvidia GeForce MX150,Windows 10,1059.0,16,2.9,0,1024,1024,True,False,1920,1080,FHD,127.33567457123111,Intel,1.8,Nvidia
+MSI,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2499.0,16,4.14,512,1024,1536,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,2 in 1 Convertible,15.6,Nvidia GeForce GTX 1050M,Windows 10,1699.0,8,2.0,512,0,512,True,True,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,17.3,AMD Radeon 530,Windows 10,1142.0,8,2.8,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,AMD
+Lenovo,Notebook,15.6,Intel HD Graphics 520,No OS,444.0,4,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,722.0,4,2.1,0,500,500,True,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,657.0,4,2.18,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon R5 M430,Windows 10,565.0,8,2.24,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+Dell,2 in 1 Convertible,15.6,Intel UHD Graphics 620,Windows 10,799.0,8,2.67,256,0,256,False,True,1920,1080,FHD,141.21199808219862,Intel,1.6,Intel
+Asus,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,1499.0,8,1.1,1024,0,1024,False,True,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,No OS,467.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+HP,Notebook,17.3,Nvidia GeForce 930MX ,Windows 10,1018.0,8,2.5,0,1024,1024,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,Nvidia
+Lenovo,Notebook,15.6,Intel UHD Graphics 620,Windows 10,880.0,8,2.05,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Intel
+Apple,Ultrabook,13.3,Intel Iris Graphics 550,macOS,1958.9,8,1.37,512,0,512,True,False,2560,1600,QHD,226.98300468106115,Intel,2.9,Intel
+Asus,Gaming,17.3,AMD Radeon RX 580,Windows 10,1549.0,16,3.2,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,AMD,3.0,AMD
+Dell,Notebook,15.6,AMD Radeon 520,Linux,735.07,8,2.14,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 520,Windows 10,2499.0,16,1.36,512,0,512,False,True,2560,1440,QHD,209.8006828649808,Intel,2.6,Intel
+Toshiba,Notebook,15.6,Nvidia GeForce 930M,Windows 10,812.0,8,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,713.07,12,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.7,Intel
+Dell,Notebook,17.3,AMD Radeon 530,Linux,1099.0,8,2.8,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,AMD
+Acer,Notebook,15.6,Nvidia GeForce MX130,Windows 10,745.0,8,2.2,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+Lenovo,Notebook,17.3,Intel HD Graphics 520,Windows 10,489.0,4,2.8,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.0,Intel
+Lenovo,Notebook,17.3,Nvidia GeForce MX150,No OS,849.0,8,2.8,0,2048,2048,False,False,1920,1080,FHD,127.33567457123111,Intel,1.8,Nvidia
+Lenovo,Notebook,17.3,Nvidia GeForce 940MX,Windows 10,859.0,6,2.8,128,1024,1152,False,False,1600,900,HD,106.11306214269258,Intel,2.7,Nvidia
+Dell,Notebook,15.6,AMD Radeon R5 M430,Linux,428.0,4,2.25,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,AMD
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,829.0,8,2.5,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,579.0,6,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Acer,Notebook,15.6,Nvidia GeForce MX150,Windows 10,951.0,8,3.0,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 620,Windows 10,659.0,12,2.15,0,1024,1024,True,True,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 630,Windows 10,1097.0,8,1.95,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+Asus,Ultrabook,15.6,Nvidia GeForce 940MX,Windows 10,977.0,8,1.7,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1179.0,16,2.5,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Nvidia GeForce 940MX,No OS,659.01,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics,Chrome OS,199.0,2,2.19,16,0,16,False,False,1366,768,HD,100.45466986113651,Intel,1.5,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1187.0,8,3.0,0,1024,1024,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+HP,Notebook,17.3,Intel HD Graphics 520,Windows 10,489.0,8,2.54,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.0,Intel
+Dell,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,1829.0,8,2.0,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel UHD Graphics 620,Windows 10,739.0,8,2.05,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1299.0,8,3.2,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Nvidia GeForce GTX 1050 Ti,Linux,979.0,8,2.5,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Workstation,17.3,Nvidia Quadro M1200,Windows 10,2884.86,16,3.42,256,0,256,False,False,1920,1080,FHD,127.33567457123111,Intel,2.9,Nvidia
+Lenovo,Notebook,15.6,AMD Radeon R5 430,Windows 10,499.0,6,2.4,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,AMD,2.4,AMD
+Asus,Ultrabook,15.6,Nvidia GeForce 940MX,Windows 10,1468.0,16,1.63,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Asus,Notebook,14.0,Intel HD Graphics 620,Windows 10,509.0,4,1.3,128,0,128,False,False,1366,768,HD,111.93520355955211,Intel,2.4,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2122.0,16,2.9,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Notebook,17.3,Nvidia GeForce GTX 940M,Windows 10,649.0,6,2.8,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.5,Nvidia
+Lenovo,Notebook,15.6,Nvidia GeForce 940MX,No OS,549.0,8,2.2,0,2048,2048,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Nvidia
+Asus,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1265.0,8,2.5,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 505,No OS,359.99,4,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1975.0,16,1.28,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.8,Intel
+Toshiba,Notebook,15.6,Nvidia GeForce 930M,Windows 10,1043.0,8,2.2,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,819.0,8,2.3,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,469.0,4,1.86,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Lenovo,Notebook,13.3,Intel HD Graphics 620,Windows 10,999.0,8,1.1,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,2499.0,16,1.21,1024,0,1024,True,True,3840,2160,4K,331.2642361026012,Intel,1.8,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1070,Windows 10,2099.0,16,2.8,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,Notebook,15.6,AMD Radeon R5,Windows 10,469.0,8,2.23,256,0,256,False,False,1920,1080,FHD,141.21199808219862,AMD,2.2,AMD
+Asus,2 in 1 Convertible,11.6,Intel HD Graphics 500,Windows 10,275.0,2,1.1,32,0,32,False,True,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,844.0,8,2.33,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+HP,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,2449.0,16,1.29,1024,0,1024,True,True,3840,2160,4K,331.2642361026012,Intel,1.8,Intel
+Lenovo,Notebook,13.3,Intel HD Graphics 510,Chrome OS,459.9,4,1.45,16,0,16,False,False,1366,768,HD,117.82653006268643,Intel,1.6,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,980.0,8,1.95,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Acer,Notebook,11.6,Intel HD Graphics 405,Windows 10,485.0,4,1.4,128,0,128,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1292.0,8,1.48,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Lenovo,Notebook,17.3,Nvidia GeForce 920MX,Windows 10,589.0,4,2.79,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.5,Nvidia
+Asus,Notebook,14.0,Intel HD Graphics 620,Windows 10,1094.0,8,2.0,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+HP,Notebook,15.6,Intel UHD Graphics 620,Windows 10,902.0,8,2.1,0,1024,1024,True,False,1366,768,HD,100.45466986113651,Intel,1.8,Intel
+Acer,Notebook,15.6,AMD Radeon RX 540,Windows 10,659.0,8,2.2,256,0,256,False,False,1366,768,HD,100.45466986113651,AMD,2.7,AMD
+Lenovo,Notebook,14.0,Intel HD Graphics 500,Windows 10,292.0,4,1.44,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.1,Intel
+Acer,Notebook,15.6,Intel HD Graphics 620,Windows 10,549.0,6,2.23,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Asus,Ultrabook,15.6,Nvidia GeForce 940MX,Windows 10,1049.9,8,1.7,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+HP,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1335.0,8,1.26,256,0,256,False,False,1920,1080,FHD,176.23257360658386,Intel,2.7,Intel
+Dell,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,2639.0,32,2.06,1024,0,1024,False,True,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+MSI,Gaming,17.3,Nvidia GeForce GTX 1050 Ti,Windows 10,1199.0,8,2.7,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Toshiba,Notebook,15.6,Intel HD Graphics 620,Windows 10,943.0,8,2.0,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Notebook,14.0,Intel HD Graphics 620,Windows 10,1334.0,8,2.0,256,1024,1280,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,449.0,4,1.85,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,999.0,8,2.5,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1268.0,8,1.48,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+Dell,Ultrabook,15.6,Nvidia GeForce 940MX,Windows 10,1049.0,8,1.9,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,1144.0,8,1.84,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Notebook,15.6,Intel HD Graphics 500,Linux,274.99,4,2.0,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Dell,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,1142.75,8,2.0,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics,Linux,274.9,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Lenovo,Notebook,15.6,AMD Radeon 530,Windows 10,899.0,12,2.2,0,2048,2048,False,False,1920,1080,FHD,141.21199808219862,AMD,3.6,AMD
+HP,Notebook,15.6,Nvidia GeForce 930MX ,Windows 10,716.0,8,2.1,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Nvidia
+Lenovo,2 in 1 Convertible,13.9,Intel UHD Graphics 620,Windows 10,2099.0,16,1.4,512,0,512,True,True,3840,2160,4K,316.96506044349616,Intel,1.8,Intel
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1579.0,8,1.2,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1129.0,16,2.4,256,2048,2304,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,14.0,Intel HD Graphics 400,Windows 10,279.0,2,1.44,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+Dell,Ultrabook,15.6,Intel UHD Graphics 620,Windows 10,1607.96,16,1.88,768,0,768,False,False,1920,1080,FHD,141.21199808219862,Intel,1.9,Intel
+Asus,2 in 1 Convertible,11.6,Intel HD Graphics 500,Windows 10,375.0,4,1.5,32,0,32,False,True,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+Dell,Ultrabook,15.6,AMD Radeon 530,Windows 10,663.0,8,1.9,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Dell,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,2027.42,16,2.06,512,0,512,False,True,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,1304.0,8,1.84,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1409.0,8,2.7,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+HP,Workstation,15.6,Nvidia Quadro M1200,Windows 10,1738.27,8,2.6,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Toshiba,Notebook,15.6,Nvidia GeForce 930M,Windows 10,1403.0,16,2.4,512,0,512,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,970.9,8,2.02,128,2048,2176,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+Lenovo,Notebook,15.6,Intel HD Graphics 500,No OS,321.99,4,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,999.0,8,2.65,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,557.37,8,2.36,0,2048,2048,False,True,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Dell,Notebook,14.0,Intel HD Graphics 620,Windows 10,1427.0,8,1.36,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,439.0,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Asus,Notebook,14.0,Intel HD Graphics 620,Windows 10,945.0,8,2.0,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Lenovo,Notebook,17.3,Nvidia GeForce GTX 940MX,Windows 10,719.0,6,2.8,128,1024,1152,False,False,1600,900,HD,106.11306214269258,Intel,2.5,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,639.0,8,1.86,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX ,No OS,499.0,8,2.2,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 405,Windows 10,389.0,8,2.04,0,2048,2048,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Dell,Notebook,17.3,AMD Radeon 530,Windows 10,1085.0,8,2.8,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,1.6,AMD
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050,No OS,809.0,8,2.4,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Notebook,15.6,AMD Radeon R7 M445,Windows 10,899.0,8,2.33,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+HP,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1750.0,8,1.36,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Asus,2 in 1 Convertible,15.6,Nvidia GeForce GT 940MX,Windows 10,1099.0,12,2.26,512,2048,2560,False,True,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Acer,Notebook,15.6,AMD Radeon R5,Windows 10,426.0,4,2.1,128,0,128,False,False,1366,768,HD,100.45466986113651,AMD,3.0,AMD
+Asus,Gaming,17.3,AMD Radeon RX 580,Windows 10,2199.0,16,3.25,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,AMD,3.0,AMD
+Lenovo,Notebook,17.3,AMD Radeon R5,Windows 10,489.0,4,2.6,128,0,128,False,False,1600,900,HD,106.11306214269258,AMD,2.2,AMD
+Dell,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,869.01,8,1.62,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+HP,Notebook,15.6,AMD Radeon R5,Windows 10,488.99,4,1.91,256,0,256,False,False,1920,1080,FHD,141.21199808219862,AMD,3.0,AMD
+Lenovo,Netbook,11.6,Intel HD Graphics 500,Windows 10,553.0,4,1.59,128,0,128,True,False,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+Dell,Notebook,15.6,Intel HD Graphics 400,Windows 10,309.0,4,1.8,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Asus,Notebook,14.0,Intel HD Graphics 500,Windows 10,286.0,4,1.5,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.1,Intel
+Acer,Notebook,15.6,Nvidia GeForce GTX 1050,Linux,846.0,8,2.4,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1191.0,8,3.35,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 520,No OS,403.5,4,1.85,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1655.0,8,2.3,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,14.0,Nvidia GeForce 940MX,Windows 10,1099.0,8,1.5,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Nvidia
+Asus,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1748.9,16,1.1,512,0,512,False,True,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,2282.0,8,1.13,512,0,512,True,False,2560,1440,QHD,209.8006828649808,Intel,2.7,Intel
+Lenovo,Notebook,13.3,Intel HD Graphics 620,Windows 10,549.0,4,1.5,128,0,128,True,False,1920,1080,FHD,165.6321180513006,Intel,2.4,Intel
+Dell,Workstation,15.6,AMD FirePro W5130M,Windows 10,1369.0,8,2.23,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,AMD
+Dell,Workstation,15.6,Nvidia Quadro M1200,Windows 10,2135.0,8,2.0,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 620,Windows 10,2509.0,16,1.42,512,0,512,False,True,2560,1440,QHD,209.8006828649808,Intel,2.7,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1039.0,8,3.0,0,1024,1024,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050 Ti,Windows 10,1591.0,16,3.0,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Nvidia GeForce MX130,Windows 10,693.99,12,2.2,0,1024,1024,True,False,1366,768,HD,100.45466986113651,Intel,1.6,Nvidia
+MSI,Gaming,17.3,Nvidia GeForce GTX 1050 Ti,Windows 10,1349.0,8,2.7,256,0,256,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Dell,Notebook,15.6,AMD Radeon R7 M445,Linux,778.87,8,2.33,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+HP,Ultrabook,15.6,AMD Radeon 520,Windows 10,499.0,4,1.91,256,0,256,False,False,1920,1080,FHD,141.21199808219862,AMD,3.0,AMD
+Lenovo,Notebook,15.6,AMD Radeon RX 550,Windows 10,1229.56,8,2.1,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+Lenovo,Notebook,14.0,Intel HD Graphics 620,Windows 10,938.0,8,1.9,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,Workstation,15.6,Nvidia Quadro M1200,Windows 10,2712.0,8,1.78,256,0,256,False,True,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,2625.0,16,1.13,1024,0,1024,True,False,2560,1440,QHD,209.8006828649808,Intel,2.7,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 500,Windows 10,306.0,4,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1529.0,16,2.9,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,AMD Radeon RX 550,Windows 10,1144.5,8,2.1,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Acer,Notebook,15.6,Nvidia GeForce GTX 1050,Linux,879.0,8,2.5,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+MSI,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2249.0,16,2.8,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Asus,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1873.0,8,1.1,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Toshiba,Ultrabook,13.3,Intel HD Graphics 520,Windows 10,1747.0,16,1.2,512,0,512,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Ultrabook,14.0,Intel HD Graphics,Windows 10,1680.0,8,1.36,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,409.0,4,2.2,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Lenovo,Notebook,11.6,Intel HD Graphics 500,Windows 10,304.45,2,1.15,32,0,32,False,False,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+Lenovo,Workstation,15.6,Nvidia Quadro M1200,Windows 10,1925.0,8,2.67,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Ultrabook,14.0,Nvidia GeForce GT 940MX,Windows 10,1943.0,8,1.7,512,0,512,True,False,2560,1440,QHD,209.8006828649808,Intel,2.8,Nvidia
+HP,Notebook,15.6,AMD Radeon 520,Windows 10,469.0,4,2.1,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,AMD
+Acer,2 in 1 Convertible,13.3,Intel HD Graphics 520,Windows 10,789.01,8,1.6,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Asus,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,928.0,8,1.27,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon R5 M430,Linux,598.9,4,2.3,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+Dell,Notebook,13.3,Intel HD Graphics 520,Windows 10,689.0,4,1.65,128,0,128,False,False,1366,768,HD,117.82653006268643,Intel,2.0,Intel
+HP,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1500.0,8,1.43,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,539.95,8,2.14,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Lenovo,Ultrabook,14.0,AMD Radeon RX 550,Windows 10,1215.38,8,1.75,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,1.8,AMD
+Lenovo,2 in 1 Convertible,15.6,Nvidia GeForce GTX 1050,Windows 10,1899.0,16,2.0,512,0,512,True,True,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Chuwi,Notebook,12.3,Intel HD Graphics 500,Windows 10,449.0,6,1.4,64,0,64,True,False,2736,1824,QHD,267.3384360344031,Intel,1.1,Intel
+HP,Notebook,15.6,Intel HD Graphics 630,Windows 10,1427.0,8,2.31,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.9,Intel
+Asus,Notebook,15.6,Nvidia GeForce 940MX,Linux,597.0,8,2.3,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Nvidia
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2799.0,16,4.42,256,1024,1280,True,False,2560,1440,QHD,169.78089942830815,Intel,2.9,Nvidia
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1159.0,8,2.62,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,1142.4,8,2.02,256,2048,2304,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+Dell,Ultrabook,14.0,Intel HD Graphics 620,Linux,1099.0,8,1.6,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Intel
+HP,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,1999.0,12,3.35,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Mediacom,2 in 1 Convertible,11.6,Intel HD Graphics 500,Windows 10,299.0,4,1.16,32,0,32,True,True,1920,1080,FHD,189.90579052433606,Intel,1.1,Intel
+Samsung,Netbook,11.6,Intel HD Graphics 400,Chrome OS,269.0,4,1.15,16,0,16,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Lenovo,Notebook,13.3,Intel HD Graphics 620,Windows 10,1010.0,8,1.4,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 620,Windows 10,599.0,4,1.7,128,0,128,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Lenovo,Workstation,15.6,Nvidia GeForce 940MX,Windows 10,2445.0,16,2.3,512,0,512,True,False,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Nvidia Quadro M2200M,Windows 10,2449.0,16,2.5,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.9,Nvidia
+Asus,Gaming,17.3,AMD Radeon RX 580,Windows 10,1695.0,8,3.2,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,AMD,3.2,AMD
+HP,Notebook,15.6,Intel HD Graphics 400,Windows 10,347.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Google,Ultrabook,12.3,Intel HD Graphics 615,Chrome OS,2199.0,16,1.1,512,0,512,False,True,2400,1600,QHD,234.50740003017813,Intel,1.3,Intel
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,2382.0,24,1.32,512,0,512,False,False,2560,1440,QHD,209.8006828649808,Intel,2.7,Intel
+Asus,Notebook,15.6,Intel HD Graphics 620,Linux,559.0,4,2.0,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,Notebook,17.3,AMD Radeon R4,Windows 10,519.0,8,2.8,0,1024,1024,False,False,1600,900,HD,106.11306214269258,AMD,2.5,AMD
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,749.0,4,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Lenovo,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1429.0,8,1.36,256,0,256,True,False,1920,1080,FHD,176.23257360658386,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 505,Windows 10,349.0,4,2.2,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,1.1,Intel
+HP,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1099.0,8,2.2,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,14.0,Nvidia GeForce 930MX,Windows 10,1179.0,8,1.64,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 620,Linux,441.8,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Dell,Workstation,15.6,Nvidia Quadro M620,Windows 10,1993.0,8,2.23,64,1024,1088,False,False,1920,1080,FHD,141.21199808219862,Intel,3.0,Nvidia
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1027.74,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Microsoft,Ultrabook,13.5,Intel Iris Plus Graphics 640,Windows 10 S,2589.0,16,1.25,512,0,512,False,True,2256,1504,FHD,200.84255993695703,Intel,2.5,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,589.0,8,1.91,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Dell,Workstation,15.6,Nvidia Quadro M620,Windows 10,1975.0,16,2.17,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+HP,Workstation,15.6,Intel HD Graphics 620,Windows 10,1534.0,8,2.31,512,0,512,True,False,1920,1080,FHD,141.21199808219862,Intel,2.9,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 620,Windows 10,1345.0,8,1.65,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,979.0,8,2.36,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+Dell,2 in 1 Convertible,11.6,Intel HD Graphics 405,Windows 10,479.0,4,1.47,0,500,500,False,True,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Dell,Notebook,17.3,Nvidia GeForce GTX 1060,Windows 10,2046.0,8,4.42,0,1024,1024,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Microsoft,Ultrabook,13.5,Intel HD Graphics 615,Windows 10 S,989.0,4,1.252,128,0,128,False,True,2256,1504,FHD,200.84255993695703,Intel,2.2,Intel
+Microsoft,Ultrabook,13.5,Intel Iris Plus Graphics 640,Windows 10 S,1799.0,8,1.25,256,0,256,False,True,2256,1504,FHD,200.84255993695703,Intel,2.5,Intel
+HP,Notebook,17.3,Intel HD Graphics 520,Windows 10,639.9,8,2.5,256,0,256,False,False,1600,900,HD,106.11306214269258,Intel,2.0,Intel
+Acer,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,544.0,4,2.23,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Nvidia
+Acer,Netbook,11.6,Intel HD Graphics 400,Windows 10,435.0,4,1.4,128,0,128,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Asus,Notebook,15.6,Intel HD Graphics 620,Windows 10,749.0,8,2.37,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,Notebook,14.0,AMD Radeon R7 M460,No OS,799.0,8,1.5,512,0,512,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,AMD
+Lenovo,Notebook,15.6,Nvidia Quadro M2200M,Windows 10,2090.0,8,2.67,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.9,Nvidia
+Asus,Notebook,15.6,Intel HD Graphics 500,Windows 10,304.0,4,2.0,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Acer,Notebook,15.6,Nvidia GeForce GTX 940MX,Windows 10,469.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Nvidia
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,759.0,8,2.02,0,2048,2048,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+HP,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1699.0,12,3.78,0,1024,1024,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1858.0,12,1.4,256,0,256,True,False,2560,1440,QHD,209.8006828649808,Intel,2.6,Intel
+HP,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,1999.0,8,1.29,512,0,512,True,True,3840,2160,4K,331.2642361026012,Intel,1.8,Intel
+HP,Notebook,15.6,AMD FirePro W4190M ,Windows 10,1154.0,8,1.9,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+Google,Ultrabook,12.3,Intel HD Graphics 615,Chrome OS,1275.0,8,1.1,128,0,128,False,True,2400,1600,QHD,234.50740003017813,Intel,1.2,Intel
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1841.85,8,1.42,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+Asus,Notebook,15.6,Intel HD Graphics 530,Windows 10,1299.0,12,2.06,128,1024,1152,True,False,3840,2160,4K,282.42399616439724,Intel,2.6,Intel
+Dell,Notebook,14.0,Intel HD Graphics 520,Windows 10,740.0,8,1.79,128,0,128,False,False,1366,768,HD,111.93520355955211,Intel,2.3,Intel
+Dell,Workstation,15.6,Nvidia Quadro M1200,Windows 10,2408.0,8,1.78,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,14.0,Intel HD Graphics 620,Windows 10,1364.0,8,1.7,180,0,180,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon 520,Windows 10,675.0,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Toshiba,Notebook,13.3,Intel HD Graphics 620,Windows 10,1672.0,8,1.05,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,1262.0,8,2.16,512,0,512,True,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,586.6,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+HP,Notebook,13.3,Intel UHD Graphics 620,Windows 10,726.0,4,1.49,128,0,128,True,False,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+Chuwi,Notebook,15.6,Intel HD Graphics,Windows 10,248.9,4,1.89,64,0,64,False,False,1920,1080,FHD,141.21199808219862,Intel,1.44,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,565.0,4,2.3,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Lenovo,Notebook,14.0,Intel UHD Graphics 620,Windows 10,1049.0,8,1.75,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,1.6,Intel
+Dell,Workstation,15.6,Nvidia Quadro M620,Windows 10,2338.0,16,2.17,512,0,512,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,1899.0,16,2.06,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1798.0,16,1.36,512,0,512,True,False,1920,1080,FHD,176.23257360658386,Intel,2.7,Intel
+Asus,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1950.0,16,0.91,512,0,512,False,False,1920,1080,FHD,176.23257360658386,Intel,2.7,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,1011.99,8,2.3,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Toshiba,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,2799.0,32,1.05,512,0,512,False,True,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1350.0,8,1.99,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,Notebook,15.6,AMD Radeon RX 540,Windows 10,579.0,8,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,AMD,2.5,AMD
+Asus,Gaming,17.3,Nvidia GeForce GTX 965M,Windows 10,1269.0,24,4.33,256,1024,1280,True,True,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Lenovo,Ultrabook,12.5,Intel HD Graphics 520,Windows 10,1099.0,8,1.3,180,0,180,True,False,1366,768,HD,125.36742798669837,Intel,2.3,Intel
+Lenovo,Notebook,15.6,Intel UHD Graphics 620,Windows 10,898.9,8,2.17,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1749.0,8,1.48,1024,0,1024,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Intel
+Lenovo,Notebook,13.3,Intel HD Graphics 620,Windows 10,949.0,8,1.4,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.4,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,911.0,8,2.3,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Netbook,11.6,Intel HD Graphics 500,Windows 10 S,340.0,4,1.2,64,0,64,False,False,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+HP,Notebook,15.6,AMD Radeon 520,Windows 10,618.99,8,1.91,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+Lenovo,2 in 1 Convertible,13.9,Intel UHD Graphics 620,Windows 10,1599.0,8,1.4,256,0,256,True,True,1920,1080,FHD,158.48253022174808,Intel,1.6,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 500,Windows 10,299.0,4,2.1,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,1.1,Intel
+Lenovo,Netbook,11.6,Intel HD Graphics 400,Chrome OS,265.0,4,1.25,16,0,16,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Lenovo,Notebook,13.3,Intel HD Graphics 620,Windows 10,949.0,8,1.44,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Asus,Notebook,15.6,Intel HD Graphics 620,Windows 10,1224.0,8,2.0,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+Acer,Notebook,15.6,Nvidia GeForce MX150,Windows 10,613.0,4,2.2,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Nvidia
+HP,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1323.0,8,1.34,512,0,512,True,False,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1060,No OS,1149.0,8,2.4,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,899.0,8,1.29,128,0,128,True,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Acer,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,639.0,4,2.2,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,836.0,8,2.18,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,1219.24,16,2.2,256,2048,2304,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+Xiaomi,Notebook,15.6,Nvidia GeForce MX150,No OS,1399.95,16,1.95,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Nvidia
+Asus,Netbook,11.6,Intel HD Graphics 500,Windows 10,245.0,2,1.1,32,0,32,False,False,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+HP,Notebook,15.6,Intel UHD Graphics 620,Windows 10,521.47,4,2.04,0,1024,1024,False,True,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX1080,Windows 10,2968.0,24,2.24,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,15.6,Nvidia GeForce 930MX,Windows 10,889.0,8,2.04,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Asus,Gaming,17.3,Nvidia GeForce GTX1050 Ti,Windows 10,1504.0,16,3.0,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1399.0,8,3.2,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1399.0,8,1.32,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Dell,Notebook,14.0,Intel HD Graphics 620,Windows 10,1279.73,8,1.64,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,689.0,4,1.63,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Dell,Notebook,17.3,AMD Radeon 530,Linux,889.0,8,2.8,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,1.6,AMD
+Lenovo,Notebook,14.0,Intel HD Graphics 520,Windows 7,1340.0,8,2.02,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX,Windows 10,799.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX ,No OS,459.0,8,2.2,0,2048,2048,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Nvidia
+Dell,Notebook,15.6,AMD Radeon R5 M430,Windows 10,585.0,4,2.3,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,1377.0,8,1.9,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,3012.77,16,4.42,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Toshiba,Notebook,15.6,Intel HD Graphics 620,Windows 10,860.0,8,2.0,0,500,500,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Notebook,15.6,Nvidia GeForce GTX 960M,Windows 10,1299.0,8,2.0,256,1024,1280,True,False,3840,2160,4K,282.42399616439724,Intel,2.7,Nvidia
+Mediacom,Notebook,13.3,Intel HD Graphics 500,Windows 10,369.0,4,1.2,32,0,32,True,False,1920,1080,FHD,165.6321180513006,Intel,1.1,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1649.0,8,2.3,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Notebook,15.6,Nvidia GeForce 930MX,Windows 10,1369.0,8,1.93,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,797.41,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+HP,Notebook,15.6,Intel HD Graphics 405,Windows 10,398.99,4,1.86,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Intel
+HP,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1799.0,12,2.62,0,1024,1024,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Notebook,14.0,Nvidia GeForce 940MX,Windows 10,859.0,8,1.87,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Nvidia
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1399.0,8,1.2,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,1.8,Intel
+Dell,Notebook,14.0,Intel HD Graphics 520,Windows 10,735.87,4,1.6,128,0,128,False,False,1920,1080,FHD,157.3505121487356,Intel,2.0,Intel
+HP,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1145.0,8,1.34,256,0,256,True,False,3200,1800,QHD,276.053530085501,Intel,2.7,Intel
+Acer,Gaming,15.6,Nvidia GeForce GTX 1050,Linux,798.0,8,2.4,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Asus,Notebook,15.6,AMD Radeon R2 Graphics,Windows 10,349.0,4,2.0,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,1.8,AMD
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,705.5,4,2.1,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 620,Windows 10,785.0,4,1.87,0,500,500,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,No OS,462.35,4,2.15,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,397.0,4,1.86,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,1729.0,8,1.99,512,0,512,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,499.0,4,2.2,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,1116.99,8,1.9,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2699.0,16,4.42,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+HP,Notebook,17.3,Intel HD Graphics 520,Windows 10,544.15,8,2.65,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.0,Intel
+HP,Notebook,17.3,Nvidia GeForce 930MX,Windows 10,1280.0,8,2.63,0,1024,1024,False,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Asus,Notebook,15.6,Intel HD Graphics 500,Linux,224.0,4,2.0,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Mediacom,Notebook,13.3,Intel HD Graphics,Windows 10,255.0,4,1.35,32,0,32,True,False,1920,1080,FHD,165.6321180513006,Intel,1.44,Intel
+Lenovo,Notebook,17.3,Nvidia GeForce 940MX,Windows 10,949.0,6,2.8,128,1024,1152,False,False,1600,900,HD,106.11306214269258,Intel,2.7,Nvidia
+HP,Notebook,15.6,AMD Radeon 530,Windows 10,568.9,6,1.91,128,0,128,True,False,1920,1080,FHD,141.21199808219862,AMD,2.5,AMD
+Dell,Notebook,15.6,AMD Radeon R5 M420,Windows 10,617.9,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,AMD
+Acer,2 in 1 Convertible,11.6,Intel HD Graphics 500,Windows 10,349.0,4,1.25,32,0,32,True,True,1920,1080,FHD,189.90579052433606,Intel,2.0,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,630.0,4,2.05,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+HP,Ultrabook,13.3,Intel HD Graphics 515,Windows 10,1965.0,16,1.16,512,0,512,True,True,3200,1800,QHD,276.053530085501,Intel,1.2,Intel
+Lenovo,Notebook,17.3,Nvidia Quadro M620M,Windows 10,2999.0,8,3.4,256,0,256,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Asus,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,839.0,8,2.5,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1599.0,8,1.21,128,0,128,True,True,3840,2160,4K,331.2642361026012,Intel,1.6,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,959.0,4,1.93,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.6,Intel
+Fujitsu,Notebook,15.6,Intel HD Graphics 620,Windows 10,739.0,8,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 505,Windows 10,344.0,4,2.2,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,1.1,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 620,Windows 10,990.0,4,2.02,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.5,Intel
+HP,Workstation,17.3,Nvidia Quadro M1200,Windows 10,1860.99,8,3.14,0,500,500,False,False,1600,900,HD,106.11306214269258,Intel,2.8,Nvidia
+HP,Notebook,14.0,Intel HD Graphics 405,Windows 10,389.0,8,1.94,0,2048,2048,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+HP,Notebook,15.6,AMD Radeon 530,Windows 10,649.0,6,1.95,256,0,256,True,False,1920,1080,FHD,141.21199808219862,AMD,3.0,AMD
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,830.0,8,2.3,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,685.0,4,2.05,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Intel
+Mediacom,Notebook,14.0,Intel HD Graphics,Windows 10,249.0,4,1.4,32,0,32,False,False,1920,1080,FHD,157.3505121487356,Intel,1.44,Intel
+Toshiba,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1865.0,16,1.24,512,0,512,False,True,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Lenovo,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2663.0,32,4.6,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+MSI,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2729.0,16,4.14,512,1024,1536,False,False,1920,1080,FHD,127.33567457123111,Intel,2.9,Nvidia
+Dell,Notebook,15.6,AMD Radeon R5 M430,Linux,749.01,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+Mediacom,Notebook,14.0,Intel HD Graphics 500,Windows 10,389.0,4,1.45,32,0,32,True,False,1920,1080,FHD,157.3505121487356,Intel,1.1,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,1008.52,8,1.9,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.6,Intel
+HP,Notebook,13.3,Intel HD Graphics 620,Windows 10,719.0,4,1.49,128,0,128,False,False,1920,1080,FHD,165.6321180513006,Intel,2.4,Intel
+Dell,Notebook,15.6,Nvidia GeForce 930MX,Windows 10,1537.39,16,1.93,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Netbook,11.6,Intel HD Graphics 400,Chrome OS,295.0,4,1.26,16,0,16,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,2349.0,16,4.5,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+HP,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1498.0,16,3.78,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1673.0,12,1.4,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,609.0,12,2.2,0,1024,1024,False,True,1366,768,HD,100.45466986113651,Intel,1.8,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1770.0,8,2.73,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.5,Nvidia
+Asus,2 in 1 Convertible,15.6,Intel HD Graphics 520,Windows 10,739.0,8,2.2,0,1024,1024,False,True,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Lenovo,Notebook,15.6,AMD Radeon 530,Windows 10,949.0,12,2.2,512,0,512,False,False,1920,1080,FHD,141.21199808219862,AMD,3.6,AMD
+Dell,2 in 1 Convertible,11.6,Intel HD Graphics 615,Windows 10,603.0,4,1.39,128,0,128,False,True,1366,768,HD,135.0942111925629,Intel,1.0,Intel
+Samsung,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,1699.0,16,2.5,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,17.3,Intel HD Graphics 520,No OS,529.0,4,2.8,0,500,500,False,False,1920,1080,FHD,127.33567457123111,Intel,2.0,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,459.0,8,2.29,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,2025.0,8,1.37,512,0,512,True,True,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 630,Windows 10,1474.0,8,1.7,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,2 in 1 Convertible,12.5,Intel HD Graphics 620,Windows 10,1670.0,8,1.34,256,0,256,False,True,1920,1080,FHD,176.23257360658386,Intel,2.5,Intel
+Dell,Workstation,15.6,Nvidia Quadro M620,Windows 10,1763.0,8,2.06,256,0,256,False,True,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,1219.0,8,1.84,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,668.48,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Acer,Notebook,14.0,Intel HD Graphics 500,Windows 10,329.0,4,1.6,32,0,32,False,False,1920,1080,FHD,157.3505121487356,Intel,1.1,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 970M,Windows 10,2199.0,16,4.14,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Dell,Notebook,15.6,AMD Radeon R5 M420,Linux,465.0,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,AMD
+MSI,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,2299.0,16,1.8,256,2048,2304,False,False,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Toshiba,Notebook,15.6,Intel HD Graphics 520,Windows 10,1399.0,8,2.2,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,564.0,6,2.4,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,15.6,Intel HD Graphics 630,Windows 10,1299.0,8,2.0,256,0,256,True,True,1920,1080,FHD,141.21199808219862,Intel,2.8,Intel
+Acer,Notebook,14.0,Intel HD Graphics 405,Windows 10,349.0,4,1.6,128,0,128,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+Lenovo,Notebook,15.6,Nvidia Quadro M2200M,Windows 10,4899.0,32,2.5,1024,0,1024,True,False,3840,2160,4K,282.42399616439724,Intel,3.1,Nvidia
+Dell,Gaming,15.6,Nvidia GeForce GTX 960<U+039C>,Windows 10,879.01,16,2.59,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 520,Linux,443.9,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Dell,Notebook,15.6,Intel HD Graphics 520,Linux,359.0,4,2.25,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Linux,869.0,4,1.93,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.6,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1168.0,8,3.0,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Dell,Notebook,15.6,AMD Radeon R5 M420,Linux,569.0,4,2.18,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+HP,Ultrabook,15.6,Intel HD Graphics 620,Windows 10,1389.0,8,1.84,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1070,Windows 10,2267.86,16,2.94,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,2 in 1 Convertible,11.6,Intel HD Graphics 400,Chrome OS,379.0,4,1.25,32,0,32,True,True,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1124.0,8,2.31,256,0,256,False,False,1366,768,HD,111.93520355955211,Intel,2.6,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 520,Windows 7,1465.0,8,1.65,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,776.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Fujitsu,Notebook,15.6,Intel HD Graphics 620,Windows 10,799.0,8,2.2,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 7,932.0,4,1.88,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX,Windows 10,899.0,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Mediacom,Notebook,14.0,Intel HD Graphics,Windows 10,239.0,2,1.4,32,0,32,False,False,1920,1080,FHD,157.3505121487356,Intel,1.44,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,No OS,468.0,4,2.2,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,639.01,6,1.5,0,1024,1024,False,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,1820.0,8,2.0,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Asus,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1900.0,16,1.1,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1479.0,16,2.62,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel UHD Graphics 620,Windows 10,829.0,4,1.8,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX ,Windows 10,579.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Nvidia
+Asus,Notebook,15.6,Intel HD Graphics 500,Windows 10,399.0,8,2.0,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Asus,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,906.62,8,1.99,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1869.0,8,1.23,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,1.6,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 400,Windows 10,249.0,2,1.42,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1757.42,8,1.37,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Dell,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,2399.0,16,2.06,1024,0,1024,False,True,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050M,Windows 10,1109.0,8,2.5,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,17.0,AMD Radeon R5,Windows 10,520.9,8,2.6,0,1024,1024,False,False,1600,900,HD,107.98564559226952,AMD,3.0,AMD
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,2450.0,16,1.14,512,0,512,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,No OS,1169.0,8,2.5,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 520,Windows 10,450.0,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics,Windows 10,274.0,4,1.43,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+Acer,Ultrabook,14.0,Intel Graphics 620,Windows 10,919.0,8,1.8,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Razer,Gaming,14.0,Nvidia GeForce GTX 1060,Windows 10,2599.0,16,1.95,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Nvidia
+Toshiba,Notebook,13.3,Intel HD Graphics 520,Windows 10,1213.0,8,1.2,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.3,Intel
+Lenovo,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1584.0,8,1.36,256,0,256,True,False,1920,1080,FHD,176.23257360658386,Intel,2.7,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1080,Windows 10,2799.0,32,3.8,512,0,512,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Acer,Gaming,15.6,Nvidia GeForce GTX 1050,Linux,709.0,8,2.4,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Ultrabook,13.3,Intel UHD Graphics 620,Windows 10,1449.9,8,1.2,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1191.8,8,2.2,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 520,No OS,364.9,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Toshiba,Notebook,15.6,Intel HD Graphics 620,Windows 10,1064.0,8,2.0,0,500,500,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,919.0,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,1135.0,16,2.2,256,2048,2304,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,AMD
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 960,Windows 10,1196.0,8,3.31,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,3147.37,32,4.42,512,1024,1536,True,False,3840,2160,4K,254.67134914246222,Intel,2.8,Nvidia
+Dell,Notebook,14.0,Intel HD Graphics 520,Windows 10,1229.0,8,1.56,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.4,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 500,Windows 10,419.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,535.0,4,2.2,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+HP,Notebook,15.6,AMD Radeon R5 M430,Windows 10,539.0,6,2.04,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,AMD
+MSI,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1486.77,8,2.7,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Toshiba,Notebook,15.6,Intel HD Graphics 520,Windows 10,498.0,4,2.1,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.1,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,955.0,8,2.06,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+HP,Notebook,15.6,AMD Radeon 530,Windows 10,745.0,8,2.1,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+Toshiba,Notebook,15.6,Intel HD Graphics 620,Windows 10,1258.0,8,2.0,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Acer,Notebook,15.6,Intel HD Graphics 520,Linux,412.0,4,2.1,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Microsoft,Ultrabook,13.5,Intel Iris Plus Graphics 640,Windows 10 S,1867.85,8,1.252,256,0,256,False,True,2256,1504,FHD,200.84255993695703,Intel,2.8,Intel
+Lenovo,Notebook,15.6,AMD Radeon R5 M430,Windows 10,817.95,8,1.9,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1034.0,8,1.3,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Lenovo,Notebook,15.6,AMD Radeon R2 Graphics,Windows 10,349.0,4,2.2,128,0,128,False,False,1366,768,HD,100.45466986113651,AMD,2.2,AMD
+HP,2 in 1 Convertible,14.0,Nvidia GeForce 940MX,Windows 10,699.0,4,1.63,128,0,128,True,True,1920,1080,FHD,157.3505121487356,Intel,2.4,Nvidia
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1294.0,16,2.4,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Asus,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1135.0,8,1.1,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+HP,2 in 1 Convertible,11.6,Intel HD Graphics 500,Chrome OS,495.0,8,1.4,64,0,64,False,True,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+LG,Ultrabook,15.6,Intel HD Graphics 620,Windows 10,2299.0,8,1.09,512,0,512,True,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Intel
+Acer,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1299.0,16,2.5,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,997.9,8,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Asus,Notebook,15.6,Intel HD Graphics 500,Windows 10,419.0,4,1.86,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,2051.0,16,3.21,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Notebook,17.3,AMD Radeon R5 520,Windows 10,699.0,4,2.5,256,0,256,True,False,1920,1080,FHD,127.33567457123111,Intel,2.0,AMD
+Lenovo,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,1499.0,8,1.19,512,0,512,True,True,1920,1080,FHD,165.6321180513006,Intel,1.8,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1070,Windows 10,2813.75,16,3.49,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.9,Nvidia
+HP,Notebook,15.6,AMD Radeon 520,Windows 10,612.61,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+Dell,Notebook,15.6,AMD Radeon R5 M430,Windows 10,545.67,4,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,AMD
+HP,Notebook,17.3,AMD Radeon R7 M440,Windows 10,569.0,6,2.65,0,2048,2048,True,False,1920,1080,FHD,127.33567457123111,AMD,2.4,AMD
+Lenovo,Notebook,15.6,Intel HD Graphics 510,Windows 10,318.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Acer,Notebook,14.0,Intel HD Graphics 510,Chrome OS,375.0,4,1.45,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 620,Windows 10,699.0,4,1.7,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+HP,Workstation,17.3,Nvidia Quadro M1200,Windows 10,1907.99,8,3.14,0,500,500,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 620,Windows 10,2590.0,8,1.42,256,0,256,False,True,2560,1440,QHD,209.8006828649808,Intel,2.7,Intel
+Toshiba,Notebook,13.3,Intel HD Graphics 620,Windows 10,973.0,8,1.5,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Acer,Netbook,11.6,Intel HD Graphics,Windows 10,269.0,4,1.4,32,0,32,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 620,Windows 10,1749.0,16,1.38,512,0,512,False,True,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Asus,2 in 1 Convertible,12.5,Intel HD Graphics 515,Chrome OS,669.0,4,1.2,64,0,64,False,True,1920,1080,FHD,176.23257360658386,Intel,0.9,Intel
+Toshiba,Ultrabook,13.3,Intel HD Graphics 520,Windows 10,1877.0,16,1.36,512,0,512,False,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+HP,Notebook,15.6,AMD Radeon 530,Windows 10,689.0,4,2.1,0,500,500,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,819.0,8,2.56,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Notebook,15.6,AMD Radeon 530,Windows 10,399.0,4,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,AMD,2.9,AMD
+Lenovo,Notebook,15.6,AMD Radeon R7,Windows 10,429.0,8,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,AMD,3.6,AMD
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,621.45,4,2.1,0,2048,2048,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,No OS,450.0,4,1.9,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,795.0,8,2.18,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Acer,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,999.0,8,1.6,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+Lenovo,Workstation,15.6,Nvidia Quadro M520M,Windows 7,1855.0,16,2.18,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Notebook,14.0,Intel HD Graphics 520,Windows 10,1191.0,8,1.8,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+HP,Notebook,17.3,AMD Radeon 530,Windows 10,655.01,6,2.71,0,2048,2048,True,False,1920,1080,FHD,127.33567457123111,AMD,2.5,AMD
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1249.0,8,2.5,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,14.0,Nvidia GeForce 930MX,Linux,1089.0,8,1.64,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Linux,726.0,8,1.98,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Notebook,14.0,Intel HD Graphics 500,Windows 10,298.0,4,1.5,32,0,32,False,False,1920,1080,FHD,157.3505121487356,Intel,1.1,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,1426.66,16,1.93,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Intel
+Lenovo,Notebook,14.0,Nvidia GeForce 920MX,Windows 10,857.07,8,1.87,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,1179.0,8,1.9,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Intel
+Lenovo,Notebook,15.6,AMD Radeon R4,Windows 10,298.0,4,2.19,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,2.0,AMD
+Mediacom,Notebook,14.0,Intel HD Graphics 400,Windows 10,265.0,4,1.4,0,32,32,True,False,1920,1200,FHD,161.72539083525606,Intel,1.92,Intel
+HP,Notebook,17.3,Nvidia GeForce 930MX,Windows 10,1200.0,8,2.63,256,0,256,False,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Lenovo,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1686.64,8,1.17,512,0,512,True,False,2560,1440,QHD,209.8006828649808,Intel,2.5,Intel
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,836.6,8,1.58,256,0,256,True,True,1366,768,HD,117.82653006268643,Intel,2.5,Intel
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1499.0,8,1.32,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,3659.4,32,4.36,1024,1024,2048,False,False,3840,2160,4K,254.67134914246222,Intel,2.8,Nvidia
+MSI,Gaming,17.3,Nvidia GeForce GTX 1050 Ti,Windows 10,1348.48,8,2.7,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 620,No OS,489.9,4,1.9,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon 530,Windows 10,719.0,8,2.2,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,1.6,AMD
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,649.0,4,1.71,0,1024,1024,False,True,1920,1080,FHD,165.6321180513006,Intel,2.4,Intel
+Dell,Notebook,15.6,AMD Radeon R7 M445,Linux,589.52,8,2.32,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+HP,Notebook,15.6,AMD Radeon 520,Windows 10,489.0,4,2.1,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,AMD,3.0,AMD
+Acer,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1935.0,16,4.2,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,649.0,12,2.25,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+HP,Notebook,15.6,AMD Radeon 520,Windows 10,650.0,6,2.1,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,AMD,3.0,AMD
+Acer,Notebook,15.6,Intel HD Graphics 620,Windows 10,559.0,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Lenovo,Notebook,13.3,Intel HD Graphics 620,Windows 10,960.0,8,1.44,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,779.0,4,1.85,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+HP,Workstation,15.6,Nvidia Quadro M2200,Windows 10,2419.0,16,2.6,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,2 in 1 Convertible,13.3,Intel UHD Graphics 620,Windows 10,659.0,8,1.55,0,1024,1024,False,True,1920,1080,FHD,165.6321180513006,Intel,1.6,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,2094.48,16,1.8,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 520,Windows 10,410.8,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Dell,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,1207.0,8,2.0,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 520,Windows 10,665.0,8,2.0,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Toshiba,Notebook,14.0,Intel HD Graphics 620,Windows 10,1535.0,8,1.25,256,0,256,True,True,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 620,Windows 10,999.0,8,1.7,256,0,256,False,True,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Lenovo,Workstation,15.6,Nvidia Quadro M520M,Windows 10,3299.0,16,2.5,1024,0,1024,True,False,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Acer,Notebook,14.0,Intel HD Graphics 400,Chrome OS,330.0,2,1.68,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+Samsung,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1649.0,16,0.81,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,539.0,8,1.86,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Dell,Notebook,14.0,Intel HD Graphics 620,Windows 10,1126.71,8,1.6,256,0,256,False,False,1366,768,HD,111.93520355955211,Intel,2.5,Intel
+HP,Workstation,17.3,Nvidia Quadro M2000M,Windows 7,4389.0,16,3.0,256,0,256,True,False,1920,1080,FHD,127.33567457123111,Intel,2.9,Nvidia
+Lenovo,Netbook,11.6,Intel HD Graphics 400,Windows 10,475.0,4,1.4,128,0,128,False,True,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,1900.0,8,1.84,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Intel
+Asus,Notebook,15.6,Nvidia GeForce GTX 950M,No OS,579.0,4,2.45,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Nvidia
+Lenovo,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1096.0,4,1.7,180,0,180,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+Asus,Notebook,15.6,Intel HD Graphics 620,Windows 10,849.9,4,2.37,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.7,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 540,Windows 10,1199.0,8,1.3,256,0,256,True,True,3200,1800,QHD,276.053530085501,Intel,1.8,Intel
+HP,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,1099.0,8,2.2,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Workstation,15.6,Nvidia Quadro M1000M,Windows 7,1561.0,8,2.59,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Dell,Gaming,15.6,Nvidia GeForce GTX 1070,Windows 10,2868.99,16,4.42,256,1024,1280,True,False,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 620,Windows 10,599.0,4,2.1,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1048.0,8,2.5,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1859.0,16,1.18,256,0,256,False,False,1920,1080,FHD,176.23257360658386,Intel,2.8,Intel
+Google,Ultrabook,12.3,Intel HD Graphics 615,Chrome OS,1559.0,8,1.1,256,0,256,False,True,2400,1600,QHD,234.50740003017813,Intel,1.2,Intel
+Asus,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1129.0,8,1.2,256,0,256,True,False,3200,1800,QHD,276.053530085501,Intel,2.5,Intel
+Dell,Notebook,13.3,Intel HD Graphics 520,Windows 10,849.0,4,1.65,0,500,500,False,False,1366,768,HD,117.82653006268643,Intel,2.0,Intel
+Acer,Notebook,13.3,Intel HD Graphics 520,Windows 10,655.0,4,1.6,128,0,128,False,False,1366,768,HD,117.82653006268643,Intel,2.3,Intel
+Asus,Notebook,17.3,Nvidia GeForce 920MX,Windows 10,470.34,4,2.8,0,1024,1024,False,False,1366,768,HD,90.58340172449303,Intel,1.1,Nvidia
+Dell,Gaming,15.6,Nvidia GeForce GTX 960M,Windows 10,1099.0,16,2.72,128,1024,1152,True,True,3840,2160,4K,282.42399616439724,Intel,2.6,Nvidia
+Samsung,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1599.0,8,1.31,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Acer,Notebook,15.6,Intel HD Graphics 505,Linux,298.0,4,2.1,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Dell,Notebook,15.6,AMD Radeon R7 M445,Windows 10,1181.27,16,2.3,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+Samsung,2 in 1 Convertible,15.0,AMD Radeon 540,Windows 10,1799.0,16,1.71,256,0,256,False,True,1920,1080,FHD,146.86047800548656,Intel,2.7,AMD
+Toshiba,Notebook,14.0,Intel HD Graphics 520,Windows 10,1020.0,4,1.75,128,0,128,True,False,1366,768,HD,111.93520355955211,Intel,2.3,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1099.0,8,2.62,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Ultrabook,12.5,Intel HD Graphics 520,Windows 10,1244.0,4,1.26,256,0,256,False,False,1366,768,HD,125.36742798669837,Intel,2.3,Intel
+Asus,2 in 1 Convertible,15.6,Nvidia GeForce 940MX,Windows 10,839.0,12,2.3,0,2048,2048,False,True,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Lenovo,Notebook,15.6,Nvidia Quadro M2000M,Windows 7,2370.0,16,2.5,512,0,512,False,False,3840,2160,4K,282.42399616439724,Intel,2.7,Nvidia
+Acer,Notebook,14.0,Intel HD Graphics 620,Windows 10,636.0,4,1.8,128,0,128,True,False,1920,1080,FHD,157.3505121487356,Intel,2.4,Intel
+Razer,Gaming,14.0,Nvidia GeForce GTX 1060,Windows 10,2899.0,16,1.95,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Nvidia
+Asus,Notebook,15.6,Intel HD Graphics 505,Windows 10,581.9,8,2.0,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,1.1,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070M,Windows 10,3588.8,32,4.42,1024,1024,2048,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Asus,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2350.0,16,4.3,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Toshiba,Ultrabook,14.0,Nvidia GeForce 930M,Windows 10,1764.0,16,1.47,512,0,512,True,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 405,No OS,329.0,8,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,2299.0,16,1.7,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+MSI,Gaming,14.0,Nvidia GeForce GTX 1060,Windows 10,1891.0,16,1.6,256,1024,1280,True,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Nvidia
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1089.0,8,2.2,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,999.0,4,2.4,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Acer,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,2299.0,16,4.2,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,985.0,8,2.62,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Asus,Gaming,15.6,Nvidia GeForce GTX1060,Windows 10,1339.0,8,2.24,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Vero,Notebook,14.0,Intel HD Graphics 500,Windows 10,202.9,4,1.22,32,0,32,False,False,1920,1080,FHD,157.3505121487356,Intel,1.1,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1970.0,8,1.37,512,0,512,True,True,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Lenovo,2 in 1 Convertible,15.6,AMD Radeon R7 M460,Windows 10,959.0,8,2.08,256,0,256,False,True,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+Apple,Ultrabook,12.0,Intel HD Graphics 5300,Mac OS X,1165.0,8,0.92,512,0,512,True,False,2304,1440,FHD,226.41554716935852,Intel,1.2,Intel
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 620,Windows 10,2330.0,8,1.42,256,0,256,True,True,2560,1440,QHD,209.8006828649808,Intel,2.5,Intel
+Asus,Notebook,14.0,Intel HD Graphics 500,Windows 10,299.0,4,1.63,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.1,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,810.0,8,1.95,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,13.9,Intel HD Graphics 620,Windows 10,1349.0,8,1.38,256,0,256,True,True,1920,1080,FHD,158.48253022174808,Intel,2.7,Intel
+Dell,Notebook,15.6,AMD Radeon R5 M420X,Windows 10,739.0,8,2.0,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,AMD
+HP,Workstation,15.6,Nvidia Quadro M2200,Windows 10,2064.9,8,3.14,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Asus,Notebook,15.6,Intel HD Graphics 620,Windows 10,1099.0,8,2.37,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Dell,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1499.0,8,1.29,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,1749.0,8,2.06,256,0,256,False,True,3840,2160,4K,282.42399616439724,Intel,2.5,Nvidia
+Dell,Netbook,11.6,Intel HD Graphics 505,Windows 10,744.0,4,1.63,128,0,128,False,False,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+HP,Netbook,12.5,Intel HD Graphics 620,Windows 10,1389.0,8,1.26,256,0,256,False,False,1366,768,HD,125.36742798669837,Intel,2.6,Intel
+Toshiba,Notebook,15.6,Intel HD Graphics 520,Windows 10,780.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+HP,Notebook,15.6,AMD Radeon R7 Graphics,Windows 10,629.0,8,2.04,0,2048,2048,False,False,1366,768,HD,100.45466986113651,AMD,2.5,AMD
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1679.0,16,2.62,512,0,512,False,False,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Nvidia GeForce 920M,Windows 10,609.0,4,2.4,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Gaming,17.3,AMD Radeon RX 580,Windows 10,1749.0,12,3.74,0,1024,1024,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,AMD
+MSI,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2415.0,16,2.9,512,1024,1536,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Samsung,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1499.0,8,0.81,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Notebook,15.6,Nvidia GeForce GT 940MX,Windows 10,961.0,8,1.98,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Notebook,15.6,AMD Radeon R5 M420,Windows 10,789.81,8,2.18,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1859.0,8,1.32,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Razer,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1799.0,16,1.29,512,0,512,True,True,3840,2160,4K,352.4651472131677,Intel,2.5,Intel
+HP,Netbook,11.6,Intel HD Graphics 400,Chrome OS,385.0,4,1.23,16,0,16,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,2505.02,16,4.36,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Dell,Notebook,14.0,Intel HD Graphics 520,Windows 10,755.0,4,1.76,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.3,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,489.9,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Toshiba,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1090.0,4,1.25,128,0,128,False,False,1366,768,HD,111.93520355955211,Intel,2.5,Intel
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,2499.0,8,1.13,512,0,512,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1199.0,8,2.4,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1875.0,8,1.13,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Toshiba,Notebook,14.0,Intel HD Graphics 510,Windows 10,499.0,4,1.75,128,0,128,False,False,1366,768,HD,111.93520355955211,Intel,2.1,Intel
+Asus,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1358.0,8,1.1,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Notebook,14.0,Intel HD Graphics 520,Windows 10,585.0,4,1.76,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.0,Intel
+Acer,Netbook,11.6,Intel HD Graphics 400,Chrome OS,355.0,4,1.35,32,0,32,True,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Acer,Notebook,14.0,Intel HD Graphics 620,Windows 10,619.0,8,1.5,128,0,128,True,False,1920,1080,FHD,157.3505121487356,Intel,2.4,Intel
+Razer,Gaming,17.3,Nvidia GeForce GTX 1080,Windows 10,5499.0,32,3.49,512,0,512,False,True,3840,2160,4K,254.67134914246222,Intel,2.9,Nvidia
+Lenovo,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,2099.0,16,1.1,512,0,512,True,False,2560,1440,QHD,209.8006828649808,Intel,2.6,Intel
+Asus,Notebook,15.6,Nvidia GeForce 920,Linux,519.0,4,2.1,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Notebook,14.0,Intel HD Graphics 520,Windows 10,1186.0,8,1.7,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 620,Windows 10,1650.0,8,1.32,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1070,Windows 10,2774.63,16,3.21,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Asus,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2419.0,16,2.9,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Toshiba,Notebook,15.6,Intel HD Graphics 620,Windows 10,669.0,4,2.0,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 400,Chrome OS,325.0,4,1.5,16,0,16,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+Asus,Notebook,15.6,Intel HD Graphics 620,Windows 10,590.0,8,2.3,0,128,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1799.0,16,2.73,512,1024,1536,False,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,3072.89,32,4.42,512,1024,1536,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+HP,Notebook,17.3,Nvidia GeForce 930MX,Windows 10,910.0,8,2.63,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.5,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,713.99,8,2.18,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+HP,Ultrabook,14.0,Intel HD Graphics 520,Windows 7,1870.0,8,1.54,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon R5 M420,Windows 10,739.0,4,2.18,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+HP,2 in 1 Convertible,11.6,Intel HD Graphics 500,Chrome OS,615.0,4,1.4,32,0,32,False,True,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+Asus,Ultrabook,13.3,Nvidia GeForce 940M,Windows 10,1026.0,8,1.45,512,0,512,True,False,1920,1080,FHD,165.6321180513006,Intel,2.3,Nvidia
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,2277.0,8,1.28,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+HP,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1468.0,8,1.54,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+HP,Notebook,15.6,Intel HD Graphics 400,No OS,299.0,4,1.86,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1899.0,16,2.1,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,17.3,AMD Radeon R7 M445,Linux,865.0,8,2.83,0,1024,1024,False,False,1920,1080,FHD,127.33567457123111,Intel,2.7,AMD
+Lenovo,Ultrabook,14.0,Nvidia GeForce GT 940MX,Windows 10,1903.0,8,1.96,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Nvidia
+Asus,Notebook,15.6,Nvidia GeForce GTX 930MX,Windows 10,787.0,8,2.3,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,945.0,8,1.9,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Notebook,15.6,Intel HD Graphics 505,Windows 10,449.0,4,2.0,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,2559.0,8,1.28,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.8,Intel
+Dell,Notebook,13.3,Intel HD Graphics 520,Windows 10,649.0,8,1.62,0,1024,1024,False,True,1920,1080,FHD,165.6321180513006,Intel,2.3,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,No OS,469.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,850.66,8,2.3,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+HP,Notebook,15.6,AMD Radeon R7 M465,Windows 10,1349.0,8,1.84,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,AMD
+Toshiba,Notebook,13.3,Intel HD Graphics 620,Windows 10,1285.0,4,1.05,128,0,128,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050,No OS,1017.0,8,2.5,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Ultrabook,13.3,Intel Iris Plus Graphics 640,Windows 10,2240.0,16,1.29,512,0,512,False,True,3200,1800,QHD,276.053530085501,Intel,2.5,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,910.0,4,2.07,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+Toshiba,Ultrabook,13.3,Intel HD Graphics 520,Windows 10,1095.0,8,1.2,256,0,256,False,False,1366,768,HD,117.82653006268643,Intel,2.3,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1950.0,8,1.37,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Acer,Notebook,14.0,Intel HD Graphics 620,Windows 10,902.0,8,1.56,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,Workstation,15.6,Nvidia Quadro M620,Windows 10,1778.0,8,2.23,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,1055.0,4,2.38,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Lenovo,Notebook,15.6,AMD Radeon R5 M430,No OS,479.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,AMD
+Toshiba,Notebook,15.6,Intel HD Graphics 620,Windows 10,1388.0,8,2.0,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+Lenovo,Notebook,13.3,Intel HD Graphics 620,Windows 10,735.0,4,1.44,180,0,180,True,False,1920,1080,FHD,165.6321180513006,Intel,2.4,Intel
+Samsung,Ultrabook,15.0,Nvidia GeForce 940MX,Windows 10,1849.0,16,1.23,256,0,256,False,False,1920,1080,FHD,146.86047800548656,Intel,2.7,Nvidia
+Dell,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1690.0,8,1.6,256,0,256,False,False,1920,1080,FHD,176.23257360658386,Intel,2.8,Intel
+Asus,Notebook,15.6,Intel HD Graphics 505,Linux,398.99,4,2.0,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Xiaomi,Ultrabook,13.3,Nvidia GeForce 940MX,Windows 10,935.0,8,1.28,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.3,Nvidia
+Dell,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,912.5,4,2.18,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,839.0,4,2.04,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1700.0,4,1.28,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+HP,2 in 1 Convertible,15.6,Intel HD Graphics 620,Windows 10,684.8,4,2.3,0,500,500,False,True,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Asus,Notebook,14.1,Intel HD Graphics 500,Windows 10,348.0,4,1.65,32,0,32,False,False,1366,768,HD,111.1413368676404,Intel,1.1,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,669.0,8,2.2,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics,Windows 10,369.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1799.0,4,1.28,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon R5 M420X,Linux,455.7,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,AMD
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1369.9,12,2.2,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.5,Nvidia
+Acer,Netbook,11.6,Intel HD Graphics 400,Chrome OS,297.0,4,1.25,32,0,32,True,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Lenovo,Notebook,17.3,AMD Radeon R3,Windows 10,379.0,4,2.8,0,500,500,False,False,1600,900,HD,106.11306214269258,AMD,2.2,AMD
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1265.0,4,1.95,128,0,128,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1399.0,16,1.42,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,2.7,Intel
+Samsung,Ultrabook,15.0,Intel HD Graphics 620,Windows 10,1699.0,8,1.17,256,0,256,False,False,1920,1080,FHD,146.86047800548656,Intel,2.7,Intel
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1799.0,8,1.32,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,2649.0,16,2.43,512,2048,2560,True,False,3840,2160,4K,254.67134914246222,Intel,2.6,Nvidia
+Toshiba,Notebook,13.3,Intel HD Graphics 620,Windows 10,1475.0,8,1.05,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050Ti,Linux,929.0,8,2.62,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,15.6,Nvidia GeForce 930MX,Windows 10,900.0,8,2.04,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Notebook,15.6,AMD Radeon R5 M420X,Windows 10,614.0,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,AMD
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,935.0,8,1.9,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Intel
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 615,Windows 10,2013.1,8,1.24,512,0,512,False,True,3200,1800,QHD,276.053530085501,Intel,1.3,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,1279.0,32,3.58,512,0,512,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 615,Windows 10,1649.0,16,1.22,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,1.3,Intel
+Lenovo,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,2049.0,8,1.13,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,1962.99,8,1.95,512,0,512,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+LG,Ultrabook,15.6,Intel HD Graphics 620,Windows 10,2099.0,16,1.08,512,0,512,True,True,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+HP,Netbook,12.5,Intel HD Graphics 620,Windows 10,1483.0,8,1.26,512,0,512,False,False,1920,1080,FHD,176.23257360658386,Intel,2.7,Intel
+Acer,Notebook,15.6,Intel HD Graphics,Chrome OS,359.0,4,2.2,16,0,16,True,False,1920,1080,FHD,141.21199808219862,Intel,1.5,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce GTX 960M,Windows 10,789.0,8,2.6,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Nvidia
+LG,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1899.0,8,0.98,512,0,512,True,True,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Dell,Notebook,14.0,Intel HD Graphics 620,Windows 10,1205.0,8,1.6,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Intel
+HP,Ultrabook,12.5,Intel HD Graphics 515,Windows 10,3100.0,8,1.09,240,0,240,False,True,3840,2160,4K,352.4651472131677,Intel,1.2,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,789.0,6,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+HP,Notebook,15.6,Nvidia GeForce 930MX,Windows 10,1018.99,8,2.04,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 620,Windows 10,499.0,4,2.4,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Intel
+Lenovo,Notebook,13.3,Intel HD Graphics 620,Windows 10,881.0,4,1.44,128,0,128,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+HP,Notebook,13.3,Intel HD Graphics 620,Windows 10,960.0,8,1.49,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 1050 Ti,Windows 10,1599.0,16,2.7,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1349.0,16,2.6,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1119.91,8,2.2,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Notebook,15.6,AMD Radeon R5 M420,Windows 10,684.99,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+HP,Ultrabook,15.6,AMD Radeon R7 M365X,Windows 10,1296.99,8,1.84,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+HP,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1149.0,8,1.39,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,2.7,Intel
+Toshiba,Notebook,15.6,Nvidia GeForce 930M,Windows 10,1975.0,16,2.4,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1825.0,8,1.37,512,0,512,True,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Notebook,15.6,Intel HD Graphics 520,Windows 10,729.9,4,1.95,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Lenovo,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1650.0,8,1.36,256,0,256,True,False,1920,1080,FHD,176.23257360658386,Intel,2.7,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,1165.0,8,2.31,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,708.06,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+HP,Notebook,14.0,Intel HD Graphics 520,Windows 10,1149.0,4,1.95,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.3,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 505,Windows 10,309.0,4,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+HP,Ultrabook,12.5,Intel HD Graphics 520,Windows 10,1579.0,4,1.26,0,500,500,False,False,1920,1080,FHD,176.23257360658386,Intel,2.3,Intel
+HP,Notebook,15.6,Intel HD Graphics 400,No OS,288.9,4,1.86,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel Iris Graphics 540,Windows 10,1799.0,16,1.3,1024,0,1024,True,True,3200,1800,QHD,276.053530085501,Intel,2.2,Intel
+Toshiba,Notebook,14.0,Intel HD Graphics 520,Windows 10,1105.0,4,1.47,128,0,128,True,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+HP,Netbook,12.5,Intel HD Graphics 520,Windows 10,1669.0,8,1.26,256,0,256,False,False,1920,1080,FHD,176.23257360658386,Intel,2.3,Intel
+Dell,Notebook,15.6,Intel HD Graphics 520,Windows 10,558.6,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1199.0,8,2.2,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1639.0,8,1.36,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1080,Windows 10,2758.0,16,4.36,512,1024,1536,False,False,2560,1440,QHD,169.78089942830815,Intel,2.7,Nvidia
+HP,Gaming,17.3,Nvidia GeForce GTX 965M,Windows 10,1399.0,8,2.75,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.3,Nvidia
+Asus,Notebook,17.3,Nvidia GeForce 920MX,Windows 10,530.0,4,2.8,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,1.6,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 620,Windows 10,619.0,4,2.23,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Toshiba,Notebook,15.6,Intel HD Graphics 520,Windows 10,1119.0,8,2.2,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Lenovo,2 in 1 Convertible,11.3,Intel HD Graphics 515,Windows 10,1299.0,8,1.1,256,0,256,True,True,1920,1080,FHD,194.94753717542463,Intel,1.2,Intel
+Lenovo,Gaming,15.6,AMD Radeon R9 M385,Windows 10,999.0,16,2.5,512,1024,1536,True,False,1920,1080,FHD,141.21199808219862,AMD,2.1,AMD
+Dell,Ultrabook,12.5,Intel HD Graphics,Windows 10,1472.2,8,1.36,256,0,256,False,True,1920,1080,FHD,176.23257360658386,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX,No OS,685.0,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Notebook,17.3,AMD Radeon R7 M445,Windows 10,659.0,4,2.36,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.0,AMD
+Acer,Notebook,14.0,Intel HD Graphics 400,Chrome OS,349.0,4,1.68,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+HP,Workstation,15.6,Nvidia Quadro M1000M,Windows 10,2249.0,8,2.0,8,0,8,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,1775.0,8,1.36,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Intel
+Toshiba,Notebook,13.3,Intel HD Graphics 520,Windows 7,1460.0,8,1.2,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.3,Intel
+Asus,2 in 1 Convertible,12.5,Intel HD Graphics 515,Chrome OS,1159.0,8,1.2,64,0,64,False,False,1920,1080,FHD,176.23257360658386,Intel,1.2,Intel
+Lenovo,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1488.99,8,1.7,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,3154.0,16,4.36,512,1024,1536,True,False,3840,2160,4K,254.67134914246222,Intel,2.8,Nvidia
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 615,Windows 10,1899.0,8,1.24,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,1.2,Intel
+HP,2 in 1 Convertible,11.6,Intel HD Graphics 505,Windows 10,775.0,4,1.45,256,0,256,False,True,1366,768,HD,135.0942111925629,Intel,1.1,Intel
+Dell,Ultrabook,13.3,Intel HD Graphics 520,Windows 10,1268.0,8,1.3,256,0,256,False,False,3200,1800,QHD,276.053530085501,Intel,2.5,Intel
+Acer,2 in 1 Convertible,11.6,Intel HD Graphics 400,Chrome OS,389.0,4,1.25,32,0,32,True,True,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Toshiba,Notebook,13.3,Intel HD Graphics 520,Windows 10,1535.0,8,1.2,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.4,Intel
+Lenovo,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1760.0,8,1.36,256,0,256,True,False,1920,1080,FHD,176.23257360658386,Intel,2.6,Intel
+Acer,Notebook,15.6,Nvidia GeForce GTX 950M,Windows 10,1009.0,12,2.4,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Toshiba,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1790.0,8,1.1,512,0,512,False,True,1920,1080,FHD,176.23257360658386,Intel,2.7,Intel
+HP,Notebook,15.6,Nvidia GeForce 930MX,Windows 10,846.5,8,2.04,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Nvidia
+Dell,Notebook,15.6,AMD Radeon R5 M430,Linux,465.62,4,2.25,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,AMD
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,825.0,4,1.9,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,685.0,4,2.04,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,3149.0,32,4.42,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX,Windows 10,695.0,6,2.4,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 615,Windows 10,1899.0,16,1.22,512,0,512,False,True,3200,1800,QHD,276.053530085501,Intel,1.3,Intel
+Dell,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1962.98,8,1.5,256,0,256,False,True,2560,1440,QHD,209.8006828649808,Intel,2.6,Intel
+Dell,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2800.0,32,4.42,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Toshiba,Notebook,14.0,Intel HD Graphics 520,Windows 10,1180.0,8,1.95,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,2049.9,16,2.73,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+HP,Notebook,15.6,Nvidia GeForce 930MX,Windows 10,979.0,8,2.04,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Lenovo,Notebook,14.0,Intel HD Graphics 520,Windows 7,1002.0,4,1.7,0,508,508,False,False,1366,768,HD,111.93520355955211,Intel,2.3,Intel
+Asus,2 in 1 Convertible,15.6,Nvidia GeForce GTX 950M,Windows 10,1799.0,16,2.3,512,2048,2560,False,True,3840,2160,4K,282.42399616439724,Intel,2.7,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,579.0,6,2.04,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.7,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1050 Ti,Windows 10,1749.0,16,2.99,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Dell,2 in 1 Convertible,15.6,Intel HD Graphics 620,Windows 10,1299.0,12,2.19,512,0,512,True,True,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+Toshiba,Notebook,13.3,Intel HD Graphics 520,Windows 7,1195.0,4,1.2,128,0,128,False,False,1920,1080,FHD,165.6321180513006,Intel,2.3,Intel
+Lenovo,Notebook,15.6,AMD Radeon 530,Windows 10,549.0,6,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,AMD,3.6,AMD
+Fujitsu,Notebook,15.6,Intel HD Graphics 520,Windows 10,649.0,4,2.3,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Toshiba,Notebook,14.0,Intel HD Graphics 520,Windows 10,915.0,4,1.75,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.3,Intel
+Dell,Notebook,15.6,AMD Radeon R5 M430,Windows 10,599.0,4,2.25,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,806.0,8,2.04,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1189.0,8,2.5,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,15.6,AMD Radeon R7 M445,Windows 10,749.0,8,2.36,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.7,AMD
+Dell,Notebook,14.0,Intel HD Graphics 620 ,Windows 10,1119.0,8,1.6,128,0,128,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+HP,Netbook,12.5,Intel HD Graphics 515,Windows 10,1908.0,8,0.97,512,0,512,False,False,1920,1080,FHD,176.23257360658386,Intel,1.2,Intel
+HP,Notebook,15.6,AMD Radeon 520,Windows 10,499.0,4,2.1,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,AMD
+Lenovo,Notebook,15.6,Intel HD Graphics 500,No OS,270.62,4,1.9,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,1349.0,8,2.3,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,889.0,8,1.68,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Asus,Notebook,13.3,Intel HD Graphics 620,Windows 10,1150.0,8,1.4,256,0,256,False,False,3200,1800,QHD,276.053530085501,Intel,2.5,Intel
+HP,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1349.0,8,1.11,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Acer,Notebook,15.6,Intel HD Graphics 505,Windows 10,380.0,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1799.0,16,2.5,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Ultrabook,14.0,Intel HD Graphics 620,Windows 10,2089.0,8,1.48,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Intel
+Acer,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1260.0,8,2.7,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,Notebook,13.3,Intel HD Graphics 620,Windows 10,1189.0,8,1.34,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,547.0,4,2.18,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,779.0,4,1.64,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.5,Intel
+Toshiba,Notebook,13.3,Intel HD Graphics 520,Windows 10,1195.0,4,1.2,128,0,128,False,False,1920,1080,FHD,165.6321180513006,Intel,2.3,Intel
+HP,Notebook,14.0,Intel HD Graphics 520,Windows 10,1099.99,4,1.48,256,0,256,False,False,1366,768,HD,111.93520355955211,Intel,2.4,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1205.0,4,1.95,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+HP,Ultrabook,14.0,Intel HD Graphics 520,Windows 7,1449.0,8,1.43,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+HP,Notebook,14.0,Nvidia GeForce 930MX,Windows 10,1049.26,8,1.64,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Nvidia
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,684.0,4,1.64,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.4,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,949.0,8,2.65,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1539.0,4,1.26,0,500,500,False,False,1920,1080,FHD,176.23257360658386,Intel,2.5,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1590.0,4,1.48,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+HP,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1887.21,8,1.54,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+HP,Notebook,13.3,Intel HD Graphics 620,Windows 10,800.0,4,1.49,0,500,500,False,False,1366,768,HD,117.82653006268643,Intel,2.4,Intel
+Toshiba,Notebook,13.3,Intel HD Graphics 520,Windows 10,1210.0,8,1.5,256,0,256,False,False,1366,768,HD,117.82653006268643,Intel,2.3,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,769.99,4,2.04,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Lenovo,Notebook,17.3,Nvidia Quadro 3000M,Windows 7,2968.0,16,2.4,512,0,512,True,False,3840,2160,4K,254.67134914246222,Intel,2.7,Nvidia
+Toshiba,Notebook,14.0,Intel HD Graphics 520,Windows 10,1490.0,8,1.47,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+HP,Notebook,14.0,Intel HD Graphics 520,Windows 10,2229.0,8,1.43,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Dell,2 in 1 Convertible,15.6,Intel HD Graphics 520,Windows 10,795.99,4,2.08,0,1024,1024,True,True,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+Toshiba,Ultrabook,13.3,Intel HD Graphics 520,Windows 10,1590.0,8,1.2,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.3,Intel
+HP,Notebook,13.3,Intel HD Graphics 620,Windows 10,1149.0,8,1.11,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+HP,Notebook,14.0,Nvidia GeForce 930MX,Windows 10,1185.43,8,1.64,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.7,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 520,Windows 10,1046.44,8,2.09,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Intel
+HP,Ultrabook,12.5,Intel HD Graphics 620,Windows 10,1559.0,4,1.26,256,0,256,False,False,1366,768,HD,125.36742798669837,Intel,2.5,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1189.0,4,2.31,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.5,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1060.0,4,1.95,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.5,Intel
+Dell,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1624.0,8,1.29,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,2.5,Intel
+HP,Notebook,17.3,Nvidia GeForce 930MX,Windows 10,1080.0,8,2.63,256,0,256,False,False,1920,1080,FHD,127.33567457123111,Intel,2.5,Nvidia
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,973.0,4,1.64,256,0,256,False,False,1366,768,HD,111.93520355955211,Intel,2.5,Intel
+Acer,Notebook,15.6,AMD Radeon R5,Windows 10,409.0,6,2.1,0,1024,1024,False,False,1366,768,HD,100.45466986113651,AMD,3.0,AMD
+MSI,Gaming,17.3,Nvidia GeForce GTX 1050,Windows 10,1191.8,8,2.7,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+HP,Notebook,14.0,Intel HD Graphics 520,Windows 7,1195.0,8,1.95,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,1228.99,8,1.84,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+HP,Ultrabook,12.5,Intel HD Graphics 520,Windows 10,1349.0,8,1.26,256,0,256,False,False,1920,1080,FHD,176.23257360658386,Intel,2.5,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,742.0,4,2.04,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Toshiba,Ultrabook,14.0,Intel HD Graphics 520,Windows 10,1725.0,8,1.47,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+Dell,Notebook,15.6,Intel HD Graphics 520,Windows 7,1062.95,8,2.09,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Intel
+HP,Notebook,14.0,Intel HD Graphics 620,Windows 10,1010.51,8,1.64,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,15.6,Intel HD Graphics 520,Windows 10,847.0,4,1.8,256,0,256,True,True,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Vero,Notebook,14.0,Intel HD Graphics 400,Windows 10,210.8,2,1.45,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.44,Intel
+Toshiba,Notebook,15.6,Nvidia GeForce 930M,Windows 10,1425.0,16,2.4,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,1049.6,8,2.3,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+HP,Notebook,14.0,Intel HD Graphics 520,Windows 10,1000.0,4,1.54,0,500,500,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,2103.34,8,1.84,256,500,756,False,False,1920,1080,FHD,141.21199808219862,Intel,2.4,Intel
+HP,Notebook,14.0,Intel HD Graphics 520,Windows 7,1469.0,8,1.43,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,1545.64,16,3.78,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Lenovo,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,2289.99,16,4.6,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Asus,Netbook,11.6,Intel HD Graphics 400,Chrome OS,287.9,4,1.2,16,0,16,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics 520,Windows 7,2620.0,16,1.1,256,0,256,True,False,2560,1440,QHD,209.8006828649808,Intel,2.6,Intel
+HP,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,979.0,8,1.91,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,2 in 1 Convertible,15.6,Intel HD Graphics 620,Windows 10,1094.0,8,2.3,256,0,256,True,True,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,979.0,4,2.04,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Dell,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,2254.0,16,1.2,1024,0,1024,False,True,3200,1800,QHD,276.053530085501,Intel,2.7,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,705.15,4,2.31,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+HP,Notebook,15.6,Intel HD Graphics 620,No OS,499.0,4,1.96,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Acer,Notebook,15.6,AMD Radeon R5,Windows 10,449.0,8,2.4,0,1024,1024,False,False,1366,768,HD,100.45466986113651,AMD,2.2,AMD
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1299.0,12,1.6,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1819.0,16,2.94,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,1070.0,8,2.04,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 965M,No OS,998.0,16,4.0,0,1024,1024,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics,Windows 10,559.0,4,2.25,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Dell,Notebook,15.6,AMD Radeon R7 M445,Windows 10,989.99,16,2.32,0,2048,2048,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,AMD
+MSI,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1929.0,16,1.8,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Dell,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1458.0,8,1.29,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 980 ,Windows 10,3975.0,64,3.58,1024,0,1024,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 520,Windows 10,798.01,8,1.62,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 970M,Windows 10,1329.0,16,3.21,256,1024,1280,False,False,3840,2160,4K,282.42399616439724,Intel,2.6,Nvidia
+Apple,Ultrabook,12.0,Intel HD Graphics 515,Mac OS X,1300.0,8,0.92,256,0,256,True,False,2304,1440,FHD,226.41554716935852,Intel,1.1,Intel
+Dell,Notebook,15.6,Intel HD Graphics 520,Windows 10,481.98,4,2.06,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,1199.0,4,2.31,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+HP,Ultrabook,12.5,Intel HD Graphics 520,Windows 7,1199.0,8,1.26,256,0,256,False,False,1920,1080,FHD,176.23257360658386,Intel,2.3,Intel
+HP,Notebook,13.3,Intel HD Graphics 620,Windows 10,1090.0,8,1.49,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Lenovo,Ultrabook,12.5,Intel HD Graphics 520,Windows 10,1713.49,8,1.3,256,0,256,True,True,1920,1080,FHD,176.23257360658386,Intel,2.5,Intel
+Lenovo,Notebook,17.3,AMD Radeon R5 M330,Windows 10,659.0,8,3.0,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.3,AMD
+Lenovo,Notebook,15.6,Nvidia GeForce GTX 950M,Windows 10,977.0,4,2.3,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Nvidia
+MSI,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2499.0,16,3.78,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,540.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 7,940.0,4,2.31,0,500,500,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+Lenovo,Ultrabook,12.5,Intel HD Graphics 515,Windows 10,1399.0,8,0.99,512,0,512,True,True,2560,1440,QHD,234.9767648087785,Intel,1.2,Intel
+Lenovo,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,3240.0,32,4.6,512,1024,1536,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Lenovo,2 in 1 Convertible,10.1,Intel HD Graphics 400,Windows 10,646.27,4,0.69,64,0,64,True,True,1920,1200,FHD,224.17380907857276,Intel,1.44,Intel
+HP,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,2049.0,16,1.3,512,0,512,True,False,3840,2160,4K,331.2642361026012,Intel,2.7,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,750.0,8,2.18,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+HP,Notebook,14.0,Intel HD Graphics 520,Windows 7,1030.99,4,1.54,0,500,500,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+HP,Workstation,15.6,AMD FirePro W4190M,Windows 7,1495.0,8,1.9,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+Lenovo,Notebook,14.0,Intel HD Graphics 520,Windows 7,1199.0,8,1.7,180,0,180,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+HP,Notebook,13.3,Intel HD Graphics 515,Chrome OS,615.0,4,1.29,32,0,32,False,False,3200,1800,QHD,276.053530085501,Intel,1.5,Intel
+Acer,Notebook,15.6,AMD Radeon R5,Windows 10,387.0,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,2.2,AMD
+Dell,Notebook,15.6,Intel HD Graphics,Linux,393.49,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,No OS,345.99,4,1.86,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1599.0,8,2.7,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Dell,Ultrabook,13.3,AMD Radeon 530,Windows 10,818.35,4,1.4,256,0,256,True,False,1920,1080,FHD,165.6321180513006,Intel,1.6,AMD
+HP,Netbook,12.5,Intel HD Graphics 520,Windows 7,1599.0,4,2.4,128,0,128,False,False,1366,768,HD,125.36742798669837,Intel,2.3,Intel
+Acer,Notebook,15.6,Nvidia GeForce GTX 950M,Windows 10,799.0,8,2.4,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Notebook,15.6,AMD Radeon R7 M445,Windows 10,638.8,8,2.36,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+MSI,Gaming,17.3,Nvidia GeForce GTX 965M,Windows 10,1599.0,8,2.6,256,0,256,False,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 405,Windows 10,500.0,4,1.96,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,2299.0,16,4.3,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Dell,Ultrabook,12.5,Intel HD Graphics 520,Windows 7,1135.15,4,1.5,0,500,500,False,False,1366,768,HD,125.36742798669837,Intel,2.3,Intel
+Dell,Ultrabook,12.5,Intel HD Graphics 520,Windows 7,1166.97,4,1.5,128,0,128,False,False,1366,768,HD,125.36742798669837,Intel,2.3,Intel
+Acer,Notebook,15.6,Intel HD Graphics,Chrome OS,209.0,4,2.2,16,0,16,False,False,1366,768,HD,100.45466986113651,Intel,1.5,Intel
+HP,Workstation,17.3,AMD FirePro W6150M,Windows 7,2899.0,8,3.0,0,1024,1024,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,AMD
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1199.0,16,2.4,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Ultrabook,12.5,Intel HD Graphics 520,Windows 7,1413.1,8,1.5,256,0,256,False,False,1366,768,HD,125.36742798669837,Intel,2.3,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 960M,Windows 10,1511.19,8,2.9,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Lenovo,2 in 1 Convertible,15.6,Intel HD Graphics 520,Windows 10,867.0,4,2.1,256,0,256,True,True,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+HP,Notebook,15.6,AMD Radeon R4,Windows 10,398.0,4,2.1,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,AMD,2.5,AMD
+Asus,Gaming,15.6,Nvidia GeForce GTX 960M,Windows 10,1339.0,16,2.59,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+HP,Notebook,13.3,Intel HD Graphics 515,Windows 10,1699.0,8,1.16,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,1.1,Intel
+Dell,Notebook,15.6,AMD Radeon R5 M315,Windows 7,769.15,4,2.24,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,AMD
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,429.0,4,2.1,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+HP,Ultrabook,13.3,Intel HD Graphics 520,Windows 10,1969.0,8,1.16,512,0,512,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,10.1,Intel HD Graphics 400,Android,549.0,4,0.69,64,0,64,True,True,1920,1200,FHD,224.17380907857276,Intel,1.44,Intel
+Dell,Ultrabook,13.3,Intel Iris Plus Graphics 640,Windows 10,1379.0,8,1.23,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.4,Intel
+Lenovo,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,2749.99,16,4.6,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+Razer,Ultrabook,12.5,Intel HD Graphics 520,Windows 10,1029.0,8,1.25,256,0,256,False,True,3840,2160,4K,352.4651472131677,Intel,2.5,Intel
+Toshiba,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,2226.0,16,1.05,512,0,512,False,False,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 960M,Windows 10,1312.49,8,3.52,128,1024,1152,False,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Vero,Notebook,13.3,Intel HD Graphics 400,Windows 10,196.0,4,1.35,32,0,32,False,False,1920,1080,FHD,165.6321180513006,Intel,1.44,Intel
+HP,Notebook,13.3,Intel HD Graphics 520,Windows 10,1690.0,8,1.16,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.3,Intel
+HP,Notebook,14.0,Intel HD Graphics 520,Windows 7,1513.0,8,1.43,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+Dell,Notebook,15.6,Intel HD Graphics 520,Linux,523.63,4,2.09,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Asus,Notebook,15.6,Intel HD Graphics 620,Windows 10,435.0,4,2.0,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 520,Windows 10,1669.0,8,1.8,256,0,256,True,True,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,10.1,Intel HD Graphics 400,Windows 10,479.0,4,0.69,64,0,64,True,True,1920,1200,FHD,224.17380907857276,Intel,1.44,Intel
+HP,Ultrabook,12.5,Intel HD Graphics 520,Windows 7,1895.0,8,1.26,256,0,256,False,False,1366,768,HD,125.36742798669837,Intel,2.4,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1060,No OS,989.0,8,2.4,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+HP,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1129.0,8,3.35,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.3,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,629.0,8,2.04,0,2048,2048,False,False,1366,768,HD,100.45466986113651,Intel,2.7,Intel
+Lenovo,2 in 1 Convertible,14.0,Nvidia Quadro M500M,Windows 7,2050.38,8,1.8,512,0,512,True,True,1920,1080,FHD,157.3505121487356,Intel,2.6,Nvidia
+Asus,Notebook,14.0,Intel HD Graphics 500,Windows 10,278.0,4,1.5,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.1,Intel
+HP,Ultrabook,15.6,Intel HD Graphics 620,Windows 10,752.0,8,1.84,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+Acer,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,616.0,4,2.23,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Lenovo,Notebook,15.6,AMD Radeon R7 M360,Windows 10,1099.0,16,2.5,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+HP,Workstation,17.3,Nvidia Quadro M3000M,Windows 7,3949.4,8,3.0,256,0,256,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Dell,Notebook,15.6,AMD Radeon R7 M445,Windows 10,784.0,8,2.5,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+MSI,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,2399.0,16,3.78,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+HP,Ultrabook,15.6,Intel HD Graphics 520,Windows 7,2171.72,8,1.88,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 520,Windows 10,2440.0,16,2.8,512,0,512,True,True,2560,1440,QHD,209.8006828649808,Intel,2.6,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1142.8,8,2.4,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 520,Windows 10,1629.0,8,1.48,256,0,256,False,True,1920,1080,FHD,165.6321180513006,Intel,2.4,Intel
+HP,Workstation,15.6,Nvidia Quadro M1000M,Windows 7,2229.0,8,2.59,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 520,Windows 10,1799.0,8,1.48,256,0,256,False,True,2560,1440,QHD,220.84282406840083,Intel,2.6,Intel
+HP,Workstation,15.6,Nvidia Quadro M1000M,Windows 7,1899.0,8,2.0,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+HP,Ultrabook,12.5,Intel HD Graphics 520,Windows 7,2296.95,8,1.26,256,0,256,False,False,1920,1080,FHD,176.23257360658386,Intel,2.5,Intel
+Dell,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,1009.9,8,2.18,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 7,1579.0,8,1.88,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Intel
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 520,Windows 10,2339.0,8,1.27,256,0,256,True,True,2560,1440,QHD,209.8006828649808,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,No OS,339.0,4,1.9,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+HP,Notebook,15.6,AMD Radeon R2 Graphics,Windows 10,297.0,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,1.8,AMD
+Lenovo,Notebook,15.6,AMD Radeon R5 M330,No OS,599.0,8,2.32,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,AMD
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050Ti,Windows 10,1199.0,8,2.62,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,15.6,Nvidia GeForce 960M,Windows 10,2250.68,8,2.04,256,0,256,True,True,3840,2160,4K,282.42399616439724,Intel,2.3,Nvidia
+HP,Notebook,15.6,AMD Radeon 520,Windows 10,478.89,4,1.91,256,0,256,False,False,1920,1080,FHD,141.21199808219862,AMD,2.5,AMD
+MSI,Gaming,17.3,Nvidia GeForce GTX 1050 Ti,Windows 10,1492.8,16,2.7,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Ultrabook,14.0,Intel HD Graphics 520,Windows 7,2299.0,12,1.4,512,0,512,False,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+Lenovo,Notebook,15.6,AMD Radeon R5 M330,Windows 10,788.49,8,2.5,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,AMD
+HP,2 in 1 Convertible,13.3,Intel HD Graphics 520,Windows 10,2041.0,8,1.48,512,0,512,False,True,2560,1440,QHD,220.84282406840083,Intel,2.6,Intel
+Lenovo,Ultrabook,14.0,Intel HD Graphics 520,Windows 7,1499.0,8,1.7,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Intel
+MSI,Gaming,14.0,Nvidia GeForce GTX 970M,Windows 10,1769.0,16,1.7,256,1024,1280,False,False,1920,1080,FHD,157.3505121487356,Intel,2.6,Nvidia
+HP,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,899.0,8,2.62,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,459.0,8,2.2,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,No OS,476.99,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Dell,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1498.0,8,2.62,128,1024,1152,False,False,3840,2160,4K,282.42399616439724,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 620,Windows 10,1390.0,8,1.95,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX ,Windows 10,468.0,4,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Nvidia
+HP,Notebook,14.0,Intel HD Graphics 400,Windows 10,249.0,2,1.44,32,0,32,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,839.0,8,2.2,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,679.0,8,1.96,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+HP,Notebook,15.6,Intel UHD Graphics 620,Windows 10,1159.0,16,2.1,512,0,512,False,False,1920,1080,FHD,141.21199808219862,Intel,1.8,Intel
+Asus,Notebook,15.6,Intel HD Graphics,Windows 10,369.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,No OS,398.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce 940MX,No OS,709.0,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Asus,Notebook,14.0,Intel HD Graphics 620,Windows 10,769.0,4,2.0,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.4,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 7,825.0,4,2.32,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 960,Windows 10,1305.0,16,3.31,512,0,512,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+MSI,Gaming,15.6,Nvidia GeForce GTX 970M,Windows 10,2153.37,16,1.91,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,650.0,4,2.07,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 520,Windows 10,1637.0,8,1.36,256,0,256,True,True,2560,1440,QHD,209.8006828649808,Intel,2.3,Intel
+Lenovo,Ultrabook,15.6,Nvidia GeForce 920M,Windows 10,831.0,6,1.54,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Dell,Notebook,15.6,Nvidia GeForce GT 940MX,Linux,895.01,8,1.98,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.7,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 500,Windows 10,333.0,4,2.1,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+HP,Notebook,15.6,Nvidia GeForce GTX 960M,Windows 10,799.0,6,2.18,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Asus,Gaming,15.6,Nvidia GeForce GTX 960M,Windows 10,909.0,8,2.591,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Dell,2 in 1 Convertible,15.6,Intel HD Graphics 620,Windows 10,1179.0,16,2.09,512,0,512,False,True,1920,1080,FHD,141.21199808219862,Intel,2.7,Intel
+Acer,Notebook,15.6,Nvidia GeForce 940MX,Windows 10,691.0,4,2.23,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Dell,Ultrabook,13.3,Intel HD Graphics 520,Linux,1099.0,8,1.23,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,2.4,Intel
+Acer,Gaming,17.3,Nvidia GeForce GTX 1070,Windows 10,2599.0,16,4.2,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,819.0,8,2.4,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Nvidia
+Samsung,2 in 1 Convertible,12.3,ARM Mali T860 MP4,Chrome OS,659.0,4,1.15,32,0,32,True,True,2400,1600,QHD,234.50740003017813,Other,2.0,Other
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,485.0,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Apple,Ultrabook,12.0,Intel HD Graphics 5300,Mac OS X,1163.0,8,0.92,256,0,256,True,False,2304,1440,FHD,226.41554716935852,Intel,1.1,Intel
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 620,Windows 10,1199.0,8,1.6,256,0,256,True,True,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+HP,Notebook,15.6,Nvidia GeForce GTX 1050,Windows 10,1327.0,12,2.21,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Notebook,15.6,AMD Radeon R5 M430,No OS,368.0,4,1.9,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,AMD
+Asus,Gaming,17.3,Nvidia GeForce GTX 980M,Windows 10,2150.0,16,4.3,512,1024,1536,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Acer,Notebook,15.6,Intel HD Graphics 500,Linux,272.0,4,2.1,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,2048.9,16,2.43,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Dell,Notebook,15.6,AMD Radeon R7 M440,Windows 10,499.0,4,2.3,128,0,128,False,False,1366,768,HD,100.45466986113651,Intel,2.0,AMD
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX,No OS,629.0,8,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Nvidia
+Dell,2 in 1 Convertible,15.6,Intel UHD Graphics 620,Windows 10,1285.0,16,2.0,512,0,512,False,True,1920,1080,FHD,141.21199808219862,Intel,1.8,Intel
+Dell,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,2680.0,16,1.2,512,0,512,False,True,3200,1800,QHD,276.053530085501,Intel,2.7,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1169.0,8,2.2,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Dell,Notebook,15.6,AMD Radeon R7 M445,Windows 10,889.0,8,2.36,256,0,256,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+HP,Notebook,15.6,Intel HD Graphics 620,Windows 10,579.0,8,1.91,256,0,256,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Lenovo,Notebook,15.6,AMD Radeon R2 Graphics,Windows 10,299.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,2.2,AMD
+Acer,Notebook,17.3,Nvidia GeForce 940MX,Windows 10,629.0,8,3.3,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.0,Nvidia
+Asus,Gaming,15.6,Nvidia GeForce GTX 1070,Windows 10,2449.0,16,2.2,256,1024,1280,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Apple,Ultrabook,12.0,Intel HD Graphics 515,Mac OS X,1279.0,8,0.92,512,0,512,True,False,2304,1440,FHD,226.41554716935852,Intel,1.2,Intel
+Asus,Notebook,15.6,Nvidia GeForce GTX 1060,Windows 10,1749.0,16,2.2,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+MSI,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1948.99,16,2.43,256,1024,1280,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Dell,2 in 1 Convertible,15.6,Intel HD Graphics 620,Windows 10,999.0,8,2.191,256,0,256,True,True,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1949.0,16,2.9,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Acer,Netbook,11.6,Intel HD Graphics,Chrome OS,174.0,2,1.3,32,0,32,False,False,1366,768,HD,135.0942111925629,Intel,1.5,Intel
+Acer,Notebook,17.3,Nvidia GeForce 940MX,Windows 10,598.0,4,3.3,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.0,Nvidia
+Lenovo,Notebook,17.3,Intel HD Graphics 620,No OS,539.0,8,2.8,0,1024,1024,False,False,1600,900,HD,106.11306214269258,Intel,2.5,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 960<U+039C>,Windows 10,1272.0,8,2.6,128,1024,1152,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Acer,2 in 1 Convertible,14.0,Intel HD Graphics 615,Windows 10,1149.0,8,1.2,256,0,256,True,True,1920,1080,FHD,157.3505121487356,Intel,1.3,Intel
+Lenovo,Notebook,15.6,Intel HD Graphics 520,Windows 10,1529.0,8,2.3,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 1060,Windows 10,1476.11,8,2.2,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+HP,Notebook,15.6,AMD Radeon 530,Windows 10,529.0,6,2.1,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,AMD,2.7,AMD
+Dell,Ultrabook,12.5,Intel HD Graphics 520,Windows 7,1713.37,8,1.26,256,0,256,False,True,1920,1080,FHD,176.23257360658386,Intel,2.4,Intel
+Dell,2 in 1 Convertible,15.0,Intel HD Graphics 620,Windows 10,509.0,4,2.08,0,500,500,False,True,1920,1080,FHD,146.86047800548656,Intel,2.4,Intel
+Asus,Notebook,15.6,Intel HD Graphics 405,Windows 10,309.0,4,2.65,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Dell,Ultrabook,13.3,Intel HD Graphics 620,Windows 10,1477.0,8,1.29,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,2.7,Intel
+Dell,Notebook,15.6,Intel HD Graphics 520,Linux,521.86,4,2.18,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Intel
+Lenovo,Gaming,15.6,Nvidia GeForce GTX 960M,Windows 10,1029.0,16,2.6,128,1024,1152,True,True,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+MSI,Gaming,15.6,Nvidia GeForce GTX 1050,Windows 10,1149.0,8,2.2,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Lenovo,Netbook,12.5,Intel HD Graphics 520,Windows 10,1650.0,16,1.3,512,0,512,True,True,1920,1080,FHD,176.23257360658386,Intel,2.5,Intel
+Razer,Gaming,14.0,Nvidia GeForce GTX 1060,Windows 10,3499.0,16,1.95,1024,0,1024,False,False,1920,1080,FHD,157.3505121487356,Intel,2.8,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,469.01,8,2.3,0,1024,1024,False,True,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+MSI,Gaming,17.3,Nvidia GeForce GTX 1060,Windows 10,1598.0,16,2.7,256,1024,1280,False,False,1920,1080,FHD,127.33567457123111,Intel,2.8,Nvidia
+Apple,Ultrabook,11.6,Intel HD Graphics 6000,Mac OS X,959.0,4,1.08,256,0,256,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+HP,Notebook,15.6,Intel HD Graphics 520,Windows 10,478.0,4,2.1,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.0,Intel
+HP,Ultrabook,14.0,Intel HD Graphics 520,Windows 7,2198.19,8,1.54,256,0,256,False,False,2560,1440,QHD,209.8006828649808,Intel,2.5,Intel
+Dell,Notebook,15.6,Intel HD Graphics 520,Windows 7,737.0,4,2.24,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.3,Intel
+MSI,Gaming,15.6,Nvidia GeForce GTX 960M,Windows 10,1169.0,8,2.3,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Lenovo,Notebook,13.3,Intel HD Graphics 620,Windows 10,1499.0,16,1.4,512,0,512,True,False,1920,1080,FHD,165.6321180513006,Intel,2.7,Intel
+Lenovo,Notebook,15.6,AMD Radeon 530,Windows 10,597.57,6,2.2,256,0,256,False,False,1920,1080,FHD,141.21199808219862,AMD,3.6,AMD
+Asus,Ultrabook,13.3,Intel HD Graphics 520,Windows 10,1280.0,8,1.45,256,0,256,False,False,1920,1080,FHD,165.6321180513006,Intel,2.5,Intel
+Acer,Notebook,15.6,Intel HD Graphics 520,Linux,361.8,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Dell,2 in 1 Convertible,17.3,Nvidia GeForce 940MX,Windows 10,1799.0,16,2.77,512,0,512,False,True,1920,1080,FHD,127.33567457123111,Intel,2.7,Nvidia
+HP,Notebook,14.0,Intel HD Graphics 520,Windows 7,1099.99,4,1.54,256,0,256,False,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1050 Ti,Windows 10,1600.0,16,2.5,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.8,Nvidia
+Dell,Notebook,14.0,Intel HD Graphics 620,Windows 10,875.0,4,1.6,0,500,500,False,False,1366,768,HD,111.93520355955211,Intel,2.5,Intel
+Asus,Gaming,15.6,Nvidia GeForce GTX 1070,Windows 10,2325.0,16,2.34,256,1024,1280,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Lenovo,Notebook,15.6,Intel HD Graphics 620,No OS,573.0,8,2.3,256,0,256,True,False,1920,1080,FHD,141.21199808219862,Intel,2.5,Intel
+Dell,2 in 1 Convertible,13.3,Intel HD Graphics 615,Windows 10,1813.0,8,1.24,256,0,256,False,True,3200,1800,QHD,276.053530085501,Intel,1.2,Intel
+Dell,Notebook,15.6,Intel HD Graphics,Linux,324.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+HP,Notebook,15.6,AMD Radeon R4 Graphics,Windows 10,399.0,4,1.86,0,500,500,False,False,1366,768,HD,100.45466986113651,AMD,2.5,AMD
+Lenovo,Notebook,15.6,Nvidia GeForce 920MX,Windows 10,569.0,6,2.4,128,0,128,False,False,1920,1080,FHD,141.21199808219862,Intel,2.3,Nvidia
+Lenovo,Notebook,14.0,Intel HD Graphics 520,Windows 10,1072.0,8,1.9,256,0,256,True,False,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+Dell,Notebook,15.6,Intel HD Graphics,Windows 10,443.99,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Asus,Notebook,15.6,Intel HD Graphics 500,Windows 10,339.0,4,2.0,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,1.1,Intel
+Asus,Gaming,17.3,Nvidia GeForce GTX 970M,Windows 10,1900.0,16,4.0,128,1024,1152,True,False,1920,1080,FHD,127.33567457123111,Intel,2.6,Nvidia
+Dell,Notebook,15.6,Intel HD Graphics 520,Windows 10,490.0,4,2.29,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.0,Intel
+Lenovo,Notebook,15.6,AMD Radeon R5 M330,Windows 7,895.0,8,2.32,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,Intel,2.5,AMD
+MSI,Gaming,15.6,Nvidia GeForce GTX 960M,Windows 10,1229.0,8,2.4,128,1024,1152,False,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 520,Windows 10,833.01,4,1.8,128,0,128,False,True,1920,1080,FHD,157.3505121487356,Intel,2.3,Intel
+Asus,Ultrabook,13.3,Intel HD Graphics 515,Windows 10,729.0,8,1.2,512,0,512,True,False,1920,1080,FHD,165.6321180513006,Intel,0.9,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,459.0,6,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Acer,Notebook,15.6,Intel HD Graphics 400,Linux,289.0,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Dell,Notebook,15.6,Intel HD Graphics,Windows 10,379.0,2,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce GTX 960M,Windows 10,899.0,8,2.6,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+HP,Notebook,15.6,AMD Radeon R7 M440,Windows 10,549.99,6,2.04,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,AMD,2.9,AMD
+Dell,Notebook,15.6,AMD Radeon R5 M430,Linux,805.99,8,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.7,AMD
+HP,Netbook,11.6,Intel HD Graphics 400,Windows 10,209.0,2,1.17,32,0,32,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Asus,Notebook,15.6,Nvidia GeForce 920M,Windows 10,720.32,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Nvidia
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 520,Windows 10,638.0,4,1.8,128,0,128,True,True,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 520,Windows 10,1499.0,16,1.3,512,0,512,True,True,3200,1800,QHD,276.053530085501,Intel,2.5,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics,Windows 10,229.0,2,1.5,64,0,64,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+HP,Notebook,15.6,AMD Radeon R5 M330,Windows 10,764.0,6,2.19,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+Asus,Notebook,15.6,Intel HD Graphics,Windows 10,369.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Asus,Ultrabook,13.3,Intel HD Graphics 515,Windows 10,729.0,8,1.2,512,0,512,True,False,1920,1080,FHD,165.6321180513006,Intel,0.9,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,459.0,6,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Acer,Notebook,15.6,Intel HD Graphics 400,Linux,289.0,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Dell,Notebook,15.6,Intel HD Graphics,Windows 10,379.0,2,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce GTX 960M,Windows 10,899.0,8,2.6,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+HP,Notebook,15.6,AMD Radeon R7 M440,Windows 10,549.99,6,2.04,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,AMD,2.9,AMD
+Dell,Notebook,15.6,AMD Radeon R5 M430,Linux,805.99,8,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.7,AMD
+HP,Netbook,11.6,Intel HD Graphics 400,Windows 10,209.0,2,1.17,32,0,32,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Asus,Notebook,15.6,Nvidia GeForce 920M,Windows 10,720.32,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Nvidia
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 520,Windows 10,638.0,4,1.8,128,0,128,True,True,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 520,Windows 10,1499.0,16,1.3,512,0,512,True,True,3200,1800,QHD,276.053530085501,Intel,2.5,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics,Windows 10,229.0,2,1.5,64,0,64,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+HP,Notebook,15.6,AMD Radeon R5 M330,Windows 10,764.0,6,2.19,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+Asus,Notebook,15.6,Intel HD Graphics,Windows 10,369.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Asus,Ultrabook,13.3,Intel HD Graphics 515,Windows 10,729.0,8,1.2,512,0,512,True,False,1920,1080,FHD,165.6321180513006,Intel,0.9,Intel
+Dell,Notebook,15.6,Intel HD Graphics 620,Windows 10,459.0,6,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.4,Intel
+Acer,Notebook,15.6,Intel HD Graphics 400,Linux,289.0,4,2.4,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Dell,Notebook,15.6,Intel HD Graphics,Windows 10,379.0,2,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
+Lenovo,Notebook,15.6,Nvidia GeForce GTX 960M,Windows 10,899.0,8,2.6,0,1024,1024,True,False,1920,1080,FHD,141.21199808219862,Intel,2.6,Nvidia
+HP,Notebook,15.6,AMD Radeon R7 M440,Windows 10,549.99,6,2.04,0,1024,1024,False,False,1920,1080,FHD,141.21199808219862,AMD,2.9,AMD
+Dell,Notebook,15.6,AMD Radeon R5 M430,Linux,805.99,8,2.3,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.7,AMD
+HP,Netbook,11.6,Intel HD Graphics 400,Windows 10,209.0,2,1.17,32,0,32,False,False,1366,768,HD,135.0942111925629,Intel,1.6,Intel
+Asus,Notebook,15.6,Nvidia GeForce 920M,Windows 10,720.32,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,2.5,Nvidia
+Lenovo,2 in 1 Convertible,14.0,Intel HD Graphics 520,Windows 10,638.0,4,1.8,128,0,128,True,True,1920,1080,FHD,157.3505121487356,Intel,2.5,Intel
+Lenovo,2 in 1 Convertible,13.3,Intel HD Graphics 520,Windows 10,1499.0,16,1.3,512,0,512,True,True,3200,1800,QHD,276.053530085501,Intel,2.5,Intel
+Lenovo,Notebook,14.0,Intel HD Graphics,Windows 10,229.0,2,1.5,64,0,64,False,False,1366,768,HD,111.93520355955211,Intel,1.6,Intel
+HP,Notebook,15.6,AMD Radeon R5 M330,Windows 10,764.0,6,2.19,0,1024,1024,False,False,1366,768,HD,100.45466986113651,Intel,2.5,AMD
+Asus,Notebook,15.6,Intel HD Graphics,Windows 10,369.0,4,2.2,0,500,500,False,False,1366,768,HD,100.45466986113651,Intel,1.6,Intel
